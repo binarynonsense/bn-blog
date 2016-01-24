@@ -15,6 +15,15 @@ layout: default
   {{ content }}
 </div>
 
+<h3>Categories</h3>
+  <ul class="posts">
+    {% for category in page.categories %}
+    <li>
+      <a href="">{{ category.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+
 <!--<div id="related">
   <h3>Related Posts</h3>
   <ul class="posts">
