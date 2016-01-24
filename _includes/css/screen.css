@@ -150,6 +150,7 @@ nav h1, nav h2 {
  
 #categories{
   margin-bottom: 20px;
+  text-align: right;
 }         
 
 #post pre {
