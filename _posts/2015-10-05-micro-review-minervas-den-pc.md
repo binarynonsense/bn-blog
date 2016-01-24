@@ -7,7 +7,7 @@ categories:
 ---
 
 
-Interesting story and some more hours of similar gameplay. A must have if you enjoyed the base game.
+A good way to keep playing for a few more hours after finishing the base game. The story is good and the gameplay is basically the same, which in this case is a good thing. A must have if you enjoyed Bioshock 2.
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/bioshock2_01.jpg)
