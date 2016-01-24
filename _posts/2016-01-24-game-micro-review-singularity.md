@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game Micro-Review: Singularity
+title: Game Micro Review Singularity
 categories:
 - blog
 ---
