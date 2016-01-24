@@ -126,6 +126,10 @@ nav h1, nav h2 {
   text-align: right;
 }
 
+#sections ul li:before {
+                 content: "\00BB \0020";
+             }
+
 #post pre {
   border: 1px solid #ddd;
   background-color: #eef;
