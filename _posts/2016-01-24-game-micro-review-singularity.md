@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Sample post
+title: Game Micro-Review: Singularity
 categories:
 - blog
 ---
