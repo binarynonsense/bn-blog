@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Game Micro Review Singularity (PC)
+title: Game Micro Review&#58; Singularity (PC)
 categories:
 - blog
 ---
