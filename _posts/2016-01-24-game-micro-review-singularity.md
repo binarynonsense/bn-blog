@@ -1,11 +1,12 @@
 ---
 layout: post
-title: "Game Micro Review: Singularity (PC)"
+title: "Micro Review: Singularity (PC Game)"
 categories:
-- blog
+- gamereviews
+- gaming
 ---
 
-Solid gameplay and very interesting story. One of those few games I barely could stop playing until I finished it.
+Solid gameplay and very interesting story. One of those few games I could barely stop playing until I finished it.
 
 ![screenshot]({{ site.baseurl }}/images/posts/singularity_01.jpg)
 
