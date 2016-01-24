@@ -147,8 +147,10 @@ nav h1, nav h2 {
     border-right: 3px solid #DDD;
     padding-right: 25px;
 }*/
-             
-             
+ 
+#categories{
+  margin-bottom: 20px;
+}         
 
 #post pre {
   border: 1px solid #ddd;
