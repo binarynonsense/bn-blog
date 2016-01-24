@@ -3,3 +3,8 @@ highlighter: pygments
 url: http://binarynonsense.github.io/bn-blog
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+baseurl:          /bn-blog
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
