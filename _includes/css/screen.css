@@ -126,6 +126,7 @@ nav h1, nav h2 {
   text-align: right;
 }
 
+#sections li {list-style:none;}
 #sections ul li:before {
                  content: "\00BB \0020";
              }
