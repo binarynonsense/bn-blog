@@ -123,6 +123,7 @@ nav h1, nav h2 {
 #sections {
   margin-top: 40px;
   padding-top: 15px;
+  text-align: right;
 }
 
 #post pre {
