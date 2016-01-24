@@ -10,9 +10,7 @@ I finished this 'Proof of Concept' demo of my 'City Project' a little more than 
 
 <div style="text-align: center;">
 <iframe allowfullscreen="allowfullscreen" frameborder="0" height="336" src="http://www.youtube.com/embed/13oEmJQ9NSw" width="550"></iframe>
-</div>
-
-
+</div></br>
 
 The demo is still the same, it's far from a finished game but, if you want to try it, you can download it from: <a href="http://www.indiedb.com/games/city-project/downloads/city-project-proof-of-concept-demo">http://www.indiedb.com/games/city-project/downloads/city-project-proof-of-concept-demo</a> I programmed it using C++, DirectX 9.0c, OpenAL and Bullet Physics.
 
