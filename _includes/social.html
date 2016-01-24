@@ -1,5 +1,11 @@
 Follow me:
 <div id="stalker">
+{% if site.data.theme.social.twitter %}
+  <a title="{{ site.data.theme.social.twitter }} on Twitter" href="https://twitter.com/{{ site.data.theme.social.twitter }}">
+    <i class="fa fa-twitter-square"></i>
+  </a>
+  {% endif %}
+  
   {% if site.data.theme.social.github %}
   <a title="{{ site.data.theme.social.github }} on Github" href="https://github.com/{{ site.data.theme.social.github }}">
     <i class="fa fa-github-square"></i>
@@ -27,12 +33,6 @@ Follow me:
   {% if site.data.theme.social.stackoverflow %}
   <a title="{{ site.data.theme.name }} on Stack Overflow" href="http://stackoverflow.com/users/{{site.data.theme.social.stackoverflow }}">
     <i class="fa fa-stack-overflow"></i>
-  </a>
-  {% endif %}
-
-  {% if site.data.theme.social.twitter %}
-  <a title="{{ site.data.theme.social.twitter }} on Twitter" href="https://twitter.com/{{ site.data.theme.social.twitter }}">
-    <i class="fa fa-twitter-square"></i>
   </a>
   {% endif %}
 
