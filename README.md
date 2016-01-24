@@ -1,121 +1,77 @@
-# Poole
+# Lagom
 
-*The Strange Case of Dr. Jekyll and Mr. Hyde* tells the story of a lawyer investigating the connection of two persons, Dr. Henry Jekyll and Mr. Edward Hyde. Chief among the novel's supporting cast is a man by the name of Mr. Poole, Dr. Jekyll's loyal butler.
+> #### *Lagom* is a Swedish word with no direct English equivalent, meaning "just the right amount"
 
------
+Lagom, a [Jekyll][j] blog theme with just the right amount of style. 
 
-Poole is the butler for [Jekyll](http://jekyllrb.com), the static site generator. It's designed and developed by [@mdo](https://twitter.com/mdo) to provide a clear and concise foundational setup for any Jekyll site. It does so by furnishing a full vanilla Jekyll install with example templates, pages, posts, and styles.
-
-![Poole](https://f.cloud.github.com/assets/98681/1834359/71ae4048-73db-11e3-9a3c-df38eb170537.png)
-
-See Poole in action with [the demo site](http://demo.getpoole.com).
-
-There are currently two official themes built on Poole:
-
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
-
-Individual theme feedback and bug reports should be submitted to the theme's individual repository.
+Extracted lovingly from [http://mdswanson.com][mds] for your enjoyment!
 
 
-## Contents
 
-- [Usage](#usage)
-- [Options](#options)
-  - [Rems, `font-size`, and scaling](#rems-font-size-and-scaling)
-- [Development](#development)
-- [Author](#author)
-- [License](#license)
+* Responsive, based on [Skeleton][skeleton]
+* [Font Awesome][font-awesome] for icons
+* Open Sans from [Google web fonts][gfonts]
+* Built-in Atom feed
 
+[![Live Demo](https://img.shields.io/badge/view-live--demo-blue.svg?style=flat-square)](http://lagom.mdswanson.com/)
 
-## Usage
+## Action Shots
+![](http://i.imgur.com/Pmzk4j1.png)
+![](http://i.imgur.com/CT2Xvug.png)
+![](http://i.imgur.com/XisjqW1.jpg)
 
-### 1. Install Jekyll
+## Installation
 
-Poole is built for use with Jekyll, so naturally you'll need to install that. On Macs, it's rather straightforward:
+- [Fork this repository][fork]
+- Clone it: `git clone https://github.com/YOUR-USER/lagom`
+- Install the [GitHub Pages gem][pages] (includes Jekyll): `bundle install`
+- Run the jekyll server: `jekyll serve`
 
-```bash
-$ gem install jekyll
-```
+You should have a server up and running locally at <http://localhost:4000>.
 
-**Windows users:** Windows users have a bit more work to do, but luckily [@juthilo](https://github.com/juthilo) has your back with his [Run Jekyll on Windows](https://github.com/juthilo/run-jekyll-on-windows) guide.
+## Customization
 
-You may also need to install Pygments, the Python syntax highlighter for code snippets that plays nicely with Jekyll. Read more about this [in the Jekyll docs](http://jekyllrb.com/docs/templates/#code_snippet_highlighting).
+Next you'll want to change a few things. Most of them can be changed directly in
+[theme.yml][config]. That's where you can add your social links, change the accent
+color, stuff like that.
 
-### 2a. Quick start
+There's a few other places that you'll want to change, too:
 
-To help anyone with any level of familiarity with Jekyll quickly get started, Poole includes everything you need for a basic Jekyll site. To that end, just download Poole and start up Jekyll.
+- [CNAME][cname]: If you're using this on GitHub Pages with a custom domain name, 
+  you'll want to change this to be the domain you're going to use. All that should 
+  be in here is a domain name on the first line and nothing else (like: `example.com`).
+- [favicon.png][favicon]: This is the icon in your browser's address bar. You should 
+  change it to whatever you'd like.
+- [logo.png][logo]: A square-ish image that appears in the upper-left corner
 
-### 2b. Roll your own Jekyll site
+## Deployment
 
-Folks wishing to use Jekyll's templates and styles can do so with a little bit of manual labor. Download Poole and then copy what you need (likely `_layouts/`, `*.html` files, `atom.xml` for RSS, and `public/` for CSS, JS, etc.).
+You should deploy with [GitHub Pages][pages] - it's just easier.
 
-### 3. Running locally
+All you should have to do is rename your repository on GitHub to be
+`username.github.io`. Since everything is on the `gh-pages` branch, you
+should be able to see your new site at <http://username.github.io>.
 
-To see your Jekyll site with Poole applied, start a Jekyll server. In Terminal, from `/Poole` (or whatever your Jekyll site's root directory is named):
+## Licensing
 
-```bash
-$ jekyll serve
-```
+[MIT](https://github.com/swanson/lagom/blob/master/LICENSE) with no
+added caveats, so feel free to use this on your site without linking back to
+me or using a disclaimer or anything silly like that.
 
-Open <http://localhost:4000> in your browser, and voilà.
+## Contact
+I'd love to hear from you at [@_swanson][twitter]. Feel free to open issues if you
+run into trouble or have suggestions. Pull Requests always welcome.
 
-### 4. Serving it up
-
-If you host your code on GitHub, you can use [GitHub Pages](https://pages.github.com) to host your project.
-
-1. Fork this repo and switch to the `gh-pages` branch.
-2a. If you're [using a custom domain name](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages), modify the `CNAME` file to point to your new domain.
-2b. If you're not using a custom domain name, **modify the `baseurl` in `_config.yml`** to point to your GitHub Pages URL. Example: for a repo at `github.com/username/poole`, use `http://username.github.io/poole/`. **Be sure to include the trailing slash.**
-3. Done! Head to your GitHub Pages URL or custom domain.
-
-No matter your production or hosting setup, be sure to verify the `baseurl` option file and `CNAME` settings. Not applying this correctly can mean broken styles on your site.
-
-
-## Options
-
-Poole includes some customizable options, typically applied via classes on the `<body>` element.
-
-
-### Rems, `font-size`, and scaling
-
-Poole is built almost entirely with `rem`s (instead of pixels). `rem`s are like `em`s, but instead of building on the immediate parent's `font-size`, they build on the root element, `<html>`.
-
-By default, we use the following:
-
-```css
-html {
-  font-size: 16px;
-  line-height: 1.5;
-}
-@media (min-width: 38em) {
-  html {
-    font-size: 20px;
-  }
-}
-
-```
-
-To easily scale your site's typography and components, simply customize the base `font-size`s here.
-
-
-## Development
-
-Poole has two branches, but only one is used for active development.
-
-- `master` for development.  **All pull requests should be to submitted against `master`.**
-- `gh-pages` for our hosted site, which includes our analytics tracking code. **Please avoid using this branch.**
-
-
-## Author
-
-**Mark Otto**
-- <https://github.com/mdo>
-- <https://twitter.com/mdo>
-
-
-## License
-
-Open sourced under the [MIT license](LICENSE.md).
-
-<3
+[j]: http://jekyllrb.com/
+[mds]: http://mdswanson.com
+[skeleton]: http://www.getskeleton.com/
+[font-awesome]: http://fortawesome.github.io/Font-Awesome/
+[gfonts]: http://www.google.com/fonts/specimen/Open+Sans
+[fork]: https://github.com/swanson/lagom/fork
+[config]: https://github.com/swanson/lagom/blob/master/_data/theme.yml
+[cname]: https://github.com/swanson/lagom/blob/master/CNAME
+[favicon]: https://github.com/swanson/lagom/blob/master/favicon.png
+[logo]: https://github.com/swanson/lagom/blob/master/logo.png
+[pages]: http://pages.github.com
+[twitter]: https://twitter.com/_swanson
+[pages]: https://github.com/github/pages-gem

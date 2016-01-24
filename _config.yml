@@ -1,12 +1,5 @@
-# Permalinks
-permalink:        /:year/:month/:day/:title/
-relative_permalinks: true
-
-# Setup
-title:            Blog | BinaryNonsense
-url:              http://binarynonsense.github.io/bn-blog
-paginate:         1
-baseurl:          /bn-blog
-
-# This is the list of pages to incldue in the header of the website.
-pages_list: {'About':'/about','Archive':'/archive','Feed':'/atom.xml'}
+# General Jekyll Config
+highlighter: pygments
+url: http://example.com
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
