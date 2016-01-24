@@ -18,7 +18,7 @@ layout: default
 <div id="categories">
 <b>categories:</b>
 {% for category in page.categories %}
- {{ category }}{% if not forloop.last %},{% endif %}
+ {{ category }}{% unless forloop.last %},{% endunless %} 
 {% endfor %}
 </div>
 
