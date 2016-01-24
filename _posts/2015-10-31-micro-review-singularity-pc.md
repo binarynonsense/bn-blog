@@ -2,7 +2,7 @@
 layout: post
 title: "Micro Review: Singularity (PC Game)"
 categories:
-- gamereviews
+- game-reviews
 - gaming
 ---
 

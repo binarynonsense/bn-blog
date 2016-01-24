@@ -2,7 +2,7 @@
 layout: post
 title: "Micro Review: Kane & Lynch 2: Dog Days (PC Game)"
 categories:
-- gamereviews
+- game-reviews
 - gaming
 ---
 

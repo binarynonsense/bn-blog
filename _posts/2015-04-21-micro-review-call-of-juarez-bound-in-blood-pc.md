@@ -2,7 +2,7 @@
 layout: post
 title: "Micro Review: Call of Juarez: Bound in Blood (PC Game)"
 categories:
-- gamereviews
+- game-reviews
 - gaming
 ---
 

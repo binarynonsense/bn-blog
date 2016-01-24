@@ -2,7 +2,7 @@
 layout: post
 title: "Micro Review: Assassin’s Creed III (PC Game)"
 categories:
-- gamereviews
+- game-reviews
 - gaming
 ---
 

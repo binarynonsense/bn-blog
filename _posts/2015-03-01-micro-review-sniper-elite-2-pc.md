@@ -2,7 +2,7 @@
 layout: post
 title: "Micro Review: Sniper Elite V2 (PC Game)"
 categories:
-- gamereviews
+- game-reviews
 - gaming
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: "Micro Review: Assassin’s Creed IV Black Flag (PC Game)"
 categories:
-- gamereviews
+- game-reviews
 - gaming
 ---
 

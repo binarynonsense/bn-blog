@@ -2,7 +2,7 @@
 layout: post
 title: "Micro Review: Call of Duty: Modern Warfare 2 (PC Game)"
 categories:
-- gamereviews
+- game-reviews
 - gaming
 ---
 

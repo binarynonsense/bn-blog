@@ -2,7 +2,7 @@
 layout: post
 title: "Micro Review: Deadly Premonition (PC Game)"
 categories:
-- gamereviews
+- game-reviews
 - gaming
 ---
 
