@@ -91,6 +91,18 @@ ul.posts span {
   font-size:14px;
 }
 
+ul.interestinglinks {
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+ul.interestinglinks li {
+  line-height: 22px;
+  font-size: 16px;
+  margin-bottom: 0px;
+}
+
+
 .meta {
   color: #aaa;
   margin: 0 0 10px 0;
