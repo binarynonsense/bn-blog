@@ -2,7 +2,7 @@
 layout: post
 title: "Micro Review: Sniper: Ghost Warrior 2 (PC Game)"
 categories:
-- gamereviews
+- game reviews
 - gaming
 ---
 
