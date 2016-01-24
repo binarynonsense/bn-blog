@@ -15,10 +15,10 @@ layout: default
   {{ content }}
 </div>
 
-<div id="related">
-<b>Categories:</b>
+<div id="categories">
+<b>categories:</b>
 {% for category in page.categories %}
- {{ category }},
+ {{ category }}{% if not forloop.last %},{% endif %}
 {% endfor %}
 </div>
 
