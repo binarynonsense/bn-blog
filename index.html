@@ -4,7 +4,7 @@ title: Blog Posts
 ---
 
 <div id="home">
-  <h2><i class="fa fa-bookmark"></i> Blog Posts</h2>
+  <h2><i class="fa fa-bookmark"></i> All Blog Posts:</h2>
   <ul id="blog-posts" class="posts">
   
     {% for post in site.posts %}
@@ -19,7 +19,7 @@ title: Blog Posts
   </ul>
   <br/>
   
-  <h2><i class="fa fa-bookmark"></i> A selection of posts from older blogs</h2>
+  <h2><i class="fa fa-bookmark"></i> A selection of posts from older blogs:</h2>
   <ul id="blog-posts" class="posts">
   {% for post in site.posts %}
     {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
