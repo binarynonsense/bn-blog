@@ -94,8 +94,9 @@ ul.posts span {
 ul.interestinglinks {
   margin-top: 0;
   margin-bottom: 20px;
+  padding-bottom: 20px;
   border-bottom: dotted #ddd;
-  border-width: 1px 0;
+  border-width: 2px 0;
 }
 
 ul.interestinglinks li {
