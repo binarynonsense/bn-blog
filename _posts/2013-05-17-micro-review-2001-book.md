@@ -5,7 +5,7 @@ categories:
 - book-reviews
 ---
 
-Author: Arthur C. Clark | My rating: 4/5
+Book Author: Arthur C. Clark | My rating: 4/5
 
 ![screenshot]({{ site.baseurl }}/images/posts/books_2001.jpg)
 
