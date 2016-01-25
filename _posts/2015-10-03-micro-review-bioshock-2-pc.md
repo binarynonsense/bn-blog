@@ -3,7 +3,6 @@ layout: post
 title: "Micro Review: Bioshock 2 (PC Game)"
 categories:
 - game-reviews
-- gaming
 ---
 
 

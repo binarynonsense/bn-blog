@@ -3,7 +3,6 @@ layout: post
 title: "City Project: Proof of Concept Demo Video (HD)"
 categories:
 - gamedev
-- workinprogress
 ---
 
 I finished this 'Proof of Concept' demo of my 'City Project' a little more than a year ago but, with the software I was using at the time and my modest PC, I could only record a quite low resolution gameplay video of it. I now use a better program that, usually, lets me record videos at 720p and decent framerates, so today I thought maybe I should make another video of the demo using it.

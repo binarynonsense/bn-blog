@@ -3,7 +3,6 @@ layout: post
 title: "Micro Review: BioShock Infinite (PC Game)"
 categories:
 - game-reviews
-- gaming
 ---
 
 

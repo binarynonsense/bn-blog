@@ -3,7 +3,6 @@ layout: post
 title: "Micro Review: Kane & Lynch 2: Dog Days (PC Game)"
 categories:
 - game-reviews
-- gaming
 ---
 
 Quite short but worth playing for its great visual style and polished, non-stop action gameplay. 

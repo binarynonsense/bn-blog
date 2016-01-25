@@ -3,7 +3,6 @@ layout: post
 title: "Micro Review: Singularity (PC Game)"
 categories:
 - game-reviews
-- gaming
 ---
 
 Solid gameplay and very interesting story. One of those few games I could barely stop playing until I finished it.

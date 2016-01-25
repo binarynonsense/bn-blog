@@ -3,7 +3,6 @@ layout: post
 title: "Micro Review: Call of Duty: Modern Warfare 2 (PC Game)"
 categories:
 - game-reviews
-- gaming
 ---
 
 Similar to the first Modern Warfare, a game I also recommend, but even better. A linear, action-packed FPS full of memorable moments.

@@ -3,7 +3,6 @@ layout: post
 title: "Micro Review: Minerva's Den (Bioshock 2 DLC) (PC Game)"
 categories:
 - game-reviews
-- gaming
 ---
 
 

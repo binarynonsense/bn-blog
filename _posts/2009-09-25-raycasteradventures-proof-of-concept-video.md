@@ -3,7 +3,6 @@ layout: post
 title: "Ray Caster Adventures: Proof of Concept Demo Video"
 categories:
 - gamedev
-- workinprogress
 ---
 
 "Ray Caster Adventures" is a First Person Shooter I've programmed using a technique called ray-casting used in the early days of the genre.

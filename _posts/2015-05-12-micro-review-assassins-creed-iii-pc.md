@@ -3,7 +3,6 @@ layout: post
 title: "Micro Review: Assassin’s Creed III (PC Game)"
 categories:
 - game-reviews
-- gaming
 ---
 
 I loved the recreation of revolutionary America (especially Boston) and liked the story/missions and characters. One of my favorite games of the series. 

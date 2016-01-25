@@ -3,7 +3,6 @@ layout: post
 title: "Micro Review: F.E.A.R. 2 (PC Game)"
 categories:
 - game-reviews
-- gaming
 ---
 
 
