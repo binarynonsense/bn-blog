@@ -10,3 +10,5 @@ My favorite game of the saga so far. A really enjoyable open world to explore, e
 
 ![screenshot]({{ site.baseurl }}/images/posts/blackflag_01.jpg)
 
+![screenshot]({{ site.baseurl }}/images/posts/blackflag_02.jpg)
+
