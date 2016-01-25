@@ -94,14 +94,13 @@ ul.posts span {
 ul.interestinglinks {
   margin-top: 0;
   margin-bottom: 10px;
-  font-size:90%;
-  line-height:110%;
+  
 }
 
 ul.interestinglinks li {
   line-height: 22px;
-  font-size: 16px;
-  margin-bottom: 0px;
+  font-size: 14px;
+  margin-bottom: 5px;
   margin-left: 40px;
 }
 
