@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: LEGO® Marvel Super Heroes (PC Game)"
+title: "Micro Review: LEGO Marvel Super Heroes (PC Game)"
 categories:
 - game-reviews
 ---
