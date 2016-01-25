@@ -6,7 +6,7 @@ categories:
 ---
 
 
-I really enjoyed it. Not too tactical but very fun."
+I really enjoyed it. Not too tactical but very fun.
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/futuresoldier_01.jpg)
