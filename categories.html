@@ -4,6 +4,17 @@ title: Posts by Category
 ---
 
 <div id="home">
+  <h2><i class="fa fa-bookmark"></i> Categories:</h2>
+  
+  <ul id="blog-posts" class="posts">
+  {% for category in site.categories %}
+  <li>&raquo; <a href="#{{ category | first }}">{{ category | first }}</a></li>
+  {% endfor %}
+  </ul>
+  <br/>
+</div>
+
+<div id="home">
   <h2><i class="fa fa-bookmark"></i> Posts by Category:</h2>
   
   <ul id="blog-posts" class="posts">
