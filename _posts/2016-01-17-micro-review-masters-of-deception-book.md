@@ -11,4 +11,4 @@ categories:
 ![screenshot]({{ site.baseurl }}/images/posts/books_mastersofdeception.jpg)
 
 
-<p>A good read for those interested in the history of the hacking scene of the late 80s and early 90s.</p>
+<p>A good read for those curious about the history of the hacking scene of the late 80s and early 90s.</p>
