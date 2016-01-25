@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Star Trek Voyager Elite Force (PC Game)"
+title: "Micro Review: Star Trek: Voyager - Elite Force (PC Game)"
 categories:
 - game-reviews
 ---
