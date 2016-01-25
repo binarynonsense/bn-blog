@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Deadly Premonition: The Director's Cut PC Game)"
+title: "Micro Review: Deadly Premonition: The Director's Cut (PC Game)"
 categories:
 - game-reviews
 ---
