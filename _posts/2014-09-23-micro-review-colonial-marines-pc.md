@@ -6,7 +6,7 @@ categories:
 ---
 
 
-I must be one of the few people that like this game, I had fun playing it and liked the graphics and atmosphere. Also liked the Stasis Interrupted DLC.
+I must be one of the few people that like this game, I had fun playing it and liked the graphics and atmosphere. I also enjoyed the Stasis Interrupted DLC.
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/colonialmarines_01.jpg)
