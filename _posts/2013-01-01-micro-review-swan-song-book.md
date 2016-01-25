@@ -8,7 +8,7 @@ categories:
 <p>Book author: Robert McCammon | My rating: 5/5</p>
 
 
-![screenshot]({{ site.baseurl }}/images/posts/swansong.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/books_swansong.jpg)
 
 
 <p>Great novel similar to "The Stand", one of my favorites, in many ways: really entertaining and long, post-apocalyptic setting, great characters, evil vs good... </p>
