@@ -6,7 +6,7 @@ categories:
 ---
 
 
-I really enjoyed its tense/creepy atmosphere and simple but enjoyable melee combat.
+I really enjoyed its tense/creepy atmosphere and simple but fun melee combat.
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/condemned_01.jpg)
