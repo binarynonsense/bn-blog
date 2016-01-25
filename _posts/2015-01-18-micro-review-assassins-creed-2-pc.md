@@ -9,7 +9,4 @@ After fixing most of the problems the original had while improving what made it 
 
 
 Screenshots: I can't find any screenshots from my playthrough.
-<!--![screenshot]({{ site.baseurl }}/images/posts/blacklist_01.jpg)
-
-![screenshot]({{ site.baseurl }}/images/posts/blacklist_02.jpg)-->
 

@@ -9,7 +9,4 @@ If you liked Splinter Cell: Conviction you'll probably enjoy this one too, the c
 
 
 Screenshots: I can't find any screenshots from my playthrough.
-<!--![screenshot]({{ site.baseurl }}/images/posts/blacklist_01.jpg)
-
-![screenshot]({{ site.baseurl }}/images/posts/blacklist_02.jpg)-->
 
