@@ -11,7 +11,7 @@ categories:
 ![screenshot]({{ site.baseurl }}/images/posts/books_2001.jpg)
 
 
-<p>A little short but still a true sci-fi classic, highly recommended. </p>
+<p>A true sci-fi classic. A little short but highly recommended.</p>
 
 
 
