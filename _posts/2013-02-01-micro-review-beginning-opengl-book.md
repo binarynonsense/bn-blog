@@ -5,7 +5,7 @@ categories:
 - book-reviews
 ---
 
-<p>Book Authors: Luke Benstead, Dave Astle, Kevin Hawkins | My rating: 2/5</p>
+<p>Book authors: Luke Benstead, Dave Astle, Kevin Hawkins | My rating: 2/5</p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/books_beginningopengl.jpg)
