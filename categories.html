@@ -25,7 +25,7 @@ title: Posts by Category
   
   <ul id="blog-posts" class="posts">
   {% for category in site.categories %}
-  <li>&raquo; <a name="{{ category | first }}">{{ category | first }}</a>:
+  <li>&raquo; <a name="{{ category | first }}"></a>{{ category | first }}:
     <ul>
     {% for posts in category %}
       {% for post in posts %}
