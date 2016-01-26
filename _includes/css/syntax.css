@@ -20,7 +20,7 @@ cyan      #2aa198  strings, numbers
 green     #859900  operators, other keywords
 */
 
-.highlight { background-color: #002b36; color: #93a1a1; overflow: auto }
+.highlight { background-color: #002b36; color: #93a1a1; overflow: auto; border: none }
 .highlight .lineno { color: #586e75 } /* Line Numbers */
 .highlight .c { color: #586e75 } /* Comment */
 .highlight .err { color: #93a1a1 } /* Error */

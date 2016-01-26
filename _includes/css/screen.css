@@ -176,6 +176,7 @@ nav h1, nav h2 {
   /*background-color: #eef;*/
   font-size: 85%;
   padding: 0 .2em;  
+  border: none;
 }
 
 #post pre code {
