@@ -6,7 +6,7 @@ categories:
 ---
 
 
-Pretty good prequel to the first game and longer than I expected from some reviews I'd read."
+Pretty good prequel to the first game and longer than I expected from some reviews I'd read.
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/critter_01.jpg)
