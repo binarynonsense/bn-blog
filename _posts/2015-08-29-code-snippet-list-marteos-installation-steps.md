@@ -19,7 +19,6 @@ ln -s marte_1.9_21Aug2014 marte
 cd marte_1.9_21Aug2014/
 cd ..
 cd marte
-ls
 ./minstall
 #msetcurrentarch x86 i386
 msetcurrentarch x86 pii
