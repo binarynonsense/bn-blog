@@ -160,10 +160,12 @@ nav h1, nav h2 {
 }         
 
 #post pre {
-  border: 1px solid #ddd;
+  /*border: 1px solid #ddd;*/
   /*background-color: #eef;*/
   padding: 0 .4em;
   margin-bottom: 20px !important;
+  overflow: auto; 
+  border: none;
 }
 
 #post ul,
