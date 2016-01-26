@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Far Cry 3 - Blood Dragon on Steam (PC Game)"
+title: "Micro Review: Far Cry 3 - Blood Dragon (PC Game)"
 categories:
 - game-reviews
 ---
