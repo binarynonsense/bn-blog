@@ -5,7 +5,6 @@ categories:
 - code-snippets
 ---
 
-<code>
 {% highlight html %}
 {% raw %}
 {% assign sorted_categories= (site.categories | sort:0) %}
@@ -16,4 +15,3 @@ categories:
 </ul>
 {% endraw %}
 {% endhighlight %}
-</code>
