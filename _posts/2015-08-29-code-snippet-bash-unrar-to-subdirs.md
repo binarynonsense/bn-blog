@@ -6,7 +6,7 @@ categories:
 ---
 
 
-{% highlight html %}
+{% highlight bash %}
 {% raw %}
 #! /bin/sh
 # unrar all rar files in current dir to same-named subdirectories 
