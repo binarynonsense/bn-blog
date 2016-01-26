@@ -6,7 +6,7 @@ categories:
 - jekyll
 ---
 
-{% highlight liquid %}
+{% highlight html %}
 {% raw %}
 <ul>
     {% for post in site.posts %}
