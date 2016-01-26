@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Code Snippet: List categories alphabetically in Jekyll"
+categories:
+- code-snippets
+---
+
+<code>
+{% assign sorted_categories= (site.categories | sort:0) %}
+<ul>
+{% for category in sorted_categories %}
+<li><a href="">{{ category | first }}</a></li>
+{% endfor %}
+</ul>
+</code>
