@@ -6,9 +6,9 @@ categories:
 - jekyll
 ---
 
-{% highlight html %}
+{% highlight liquid %}
 {% raw %}
-<ul id="blog-posts" class="posts">
+<ul>
     {% for post in site.posts %}
     {% capture year %}{{post.date | date: "%Y"}}{% endcapture %}
         {% if year < "2014" %}
