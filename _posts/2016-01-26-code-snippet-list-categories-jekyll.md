@@ -3,6 +3,7 @@ layout: post
 title: "Code Snippet: List categories alphabetically in Jekyll"
 categories:
 - code-snippets
+- jekyll
 ---
 
 {% highlight html %}
