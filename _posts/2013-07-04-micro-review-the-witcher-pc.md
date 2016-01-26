@@ -5,7 +5,7 @@ categories:
 - game-reviews
 ---
 
-A little clunky and dated graphics-wise but still looks fine and the story and atmosphere make up for it. Some people don't like the combat system.
+A little clunky and dated graphics-wise but still looks nice and the story and atmosphere make up for it. Some people don't like the combat system but I thought it was fine.
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/witcher_01.jpg)
