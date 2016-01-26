@@ -7,7 +7,7 @@ categories:
 
 
 
-The MyCareer mode, which is what I mostly play, is really fun, it's the game closest to what I like about playing basketball in real life." 
+The MyCareer mode, which is what I mostly play, is really fun, it's the game closest to what I like about playing basketball in real life.
 
 
 
