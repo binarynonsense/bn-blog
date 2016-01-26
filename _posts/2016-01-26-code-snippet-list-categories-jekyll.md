@@ -5,7 +5,6 @@ categories:
 - code-snippets
 ---
 
-<br/>
 {% highlight html %}
 {% raw %}
 {% assign sorted_categories= (site.categories | sort:0) %}
