@@ -5,7 +5,7 @@ categories:
 - code-snippets
 ---
 
-{% highlight html %}
+{% highlight bash %}
 {% raw %}
 #! /bin/sh
 
