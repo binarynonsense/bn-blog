@@ -29,7 +29,6 @@ h1.title {
 h1 {
   font-size: 32px;
   line-height: 40px;
-  margin-bottom:20px;
 }
 
 h2 {
@@ -181,6 +180,7 @@ nav h1, nav h2 {
 
 #post pre code {
   border: none;
+  margin-top: 15px;
 }
 
 #post img {
