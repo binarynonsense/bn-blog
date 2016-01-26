@@ -26,7 +26,7 @@ msetcurrentarch x86 pii
 mkrtsmarteuc && mkmarte
 cd examples/
 mgcc hello_world_c.c -o mprogram
-ls
+#testing one of my programs
 sudo apt-get install qemu
 qemu-system-i386 -kernel mprogram
 cd ..
