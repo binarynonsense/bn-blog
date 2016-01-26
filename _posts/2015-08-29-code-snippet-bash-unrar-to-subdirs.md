@@ -6,7 +6,6 @@ categories:
 ---
 
 {% highlight bash %}
-{% raw %}
 #! /bin/sh
 
 # unrar all rar files in current dir to same-named subdirectories 
@@ -30,5 +29,4 @@ cd ..
 done 
 
 echo "finished unrar in folders"
-{% endraw %}
 {% endhighlight %}
