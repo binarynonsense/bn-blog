@@ -4,6 +4,7 @@ url: http://binarynonsense.github.io/bn-blog
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
 baseurl: http://binarynonsense.github.io/bn-blog
+excerpt_separator: "<!-- more -->"
 
 # Permalinks
 permalink:        /:year/:month/:day/:title/
