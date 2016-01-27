@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Breakers series (Books)"
+title: "Micro Review: Breakers Series (Books)"
 categories:
 - book-reviews
 ---
