@@ -12,3 +12,4 @@ categories:
 
 
 <p>8 books full of entertaining stories, well paced action and great characters. I wasn't expecting much when I got the first book (I didn't know the author back then, but it was cheap and the plot summary sounded fun) but it's ended up becoming one of my favorite sci-fi series.</p>
+<p>More info: <a href="https://www.goodreads.com/series/89329-breakers">https://www.goodreads.com/series/89329-breakers</a><p>
