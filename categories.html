@@ -27,7 +27,7 @@ title: Categories & Posts by Category
   
   <ul id="blog-posts" class="posts">
   {% for category in sorted_categories %}
-  <li>&raquo; <a name="{{ category | first }}"></a>{{ category | first }}:
+  <li><p>&raquo; <a name="{{ category | first }}"></a>{{ category | first }}:</p>
     <ul>
     {% for posts in category %}
       {% for post in posts %}
