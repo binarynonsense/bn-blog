@@ -12,3 +12,5 @@ Good graphics and really well done and funny characters and animations. Despite 
 
 ![screenshot]({{ site.baseurl }}/images/posts/legomarvel_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Lego_Marvel_Super_Heroes">https://en.wikipedia.org/wiki/Lego_Marvel_Super_Heroes</a><p>
+

@@ -13,3 +13,6 @@ An open world game that focuses on building a criminal empire: extorting busines
 
 ![screenshot]({{ site.baseurl }}/images/posts/godfather2_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/The_Godfather_II_%28video_game%29">https://en.wikipedia.org/wiki/The_Godfather_II_%28video_game%29</a><p>
+

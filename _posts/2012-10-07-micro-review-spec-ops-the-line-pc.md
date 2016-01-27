@@ -13,3 +13,6 @@ Short but very fun and action packed. Great atmosphere/art style too.
 
 ![screenshot]({{ site.baseurl }}/images/posts/specops_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Spec_Ops:_The_Line">https://en.wikipedia.org/wiki/Spec_Ops:_The_Line</a><p>
+

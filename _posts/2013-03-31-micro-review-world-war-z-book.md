@@ -12,3 +12,4 @@ categories:
 
 
 <p>Quite original take on a not so original theme (a zombie apocalypse). Liked it more than I expected.</p>
+<p>More info: <a href="https://en.wikipedia.org/wiki/World_War_Z">https://en.wikipedia.org/wiki/World_War_Z</a><p>

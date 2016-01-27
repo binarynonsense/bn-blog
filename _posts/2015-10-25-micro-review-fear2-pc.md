@@ -13,3 +13,5 @@ A pretty good sequel with similar gameplay, more varied environments and improve
 
 ![screenshot]({{ site.baseurl }}/images/posts/fear2_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/F.E.A.R._2:_Project_Origin">https://en.wikipedia.org/wiki/F.E.A.R._2:_Project_Origin</a><p>
+

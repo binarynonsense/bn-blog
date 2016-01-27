@@ -13,3 +13,5 @@ Not as good or unique as the previous ones, but it's a very competent and nice-l
 
 ![screenshot]({{ site.baseurl }}/images/posts/fear3_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/F.E.A.R._3">https://en.wikipedia.org/wiki/F.E.A.R._3</a><p>
+

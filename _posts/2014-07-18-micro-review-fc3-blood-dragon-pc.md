@@ -13,3 +13,5 @@ Just entertaining, I liked the 80's vibe but maybe I was expecting too much from
 
 ![screenshot]({{ site.baseurl }}/images/posts/fc3blooddragon_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Far_Cry_3:_Blood_Dragon">https://en.wikipedia.org/wiki/Far_Cry_3:_Blood_Dragon</a><p>
+

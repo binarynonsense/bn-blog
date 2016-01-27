@@ -12,3 +12,4 @@ My favorite game of the saga so far. A really enjoyable open world to explore, e
 
 ![screenshot]({{ site.baseurl }}/images/posts/blackflag_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Assassin%E2%80%99s_Creed_IV">https://en.wikipedia.org/wiki/Assassin%E2%80%99s_Creed_IV</a><p>

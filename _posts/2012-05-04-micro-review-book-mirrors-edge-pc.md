@@ -13,3 +13,6 @@ A unique and original game with a great visual design. Gameplay is based around 
 
 ![screenshot]({{ site.baseurl }}/images/posts/mirrorsedge_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Mirror's_Edge">https://en.wikipedia.org/wiki/Mirror's_Edge</a><p>
+

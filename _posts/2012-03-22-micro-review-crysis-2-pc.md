@@ -13,3 +13,6 @@ More than 12 hours of pure fun gameplay and beautiful and impressive graphics.
 
 ![screenshot]({{ site.baseurl }}/images/posts/crysis2_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Crysis_2">https://en.wikipedia.org/wiki/Crysis_2</a><p>
+

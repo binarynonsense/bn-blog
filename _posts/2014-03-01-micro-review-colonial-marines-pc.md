@@ -13,3 +13,6 @@ I must be one of the few people that like this game, I had fun playing it and li
 
 ![screenshot]({{ site.baseurl }}/images/posts/colonialmarines_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Aliens:_Colonial_Marines">https://en.wikipedia.org/wiki/Aliens:_Colonial_Marines</a><p>
+

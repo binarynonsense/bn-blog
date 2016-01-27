@@ -13,3 +13,6 @@ I'm not sure if I like this one more than Fallout 3, one of my favorite RPGs, bu
 
 ![screenshot]({{ site.baseurl }}/images/posts/newvegas_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Fallout:_New_Vegas">https://en.wikipedia.org/wiki/Fallout:_New_Vegas</a><p>
+

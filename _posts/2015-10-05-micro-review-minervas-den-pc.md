@@ -13,3 +13,5 @@ A great way to keep playing for a few more hours after finishing the base game. 
 
 ![screenshot]({{ site.baseurl }}/images/posts/bioshock2_04.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/BioShock_2#Minerva.27s_Den">https://en.wikipedia.org/wiki/BioShock_2#Minerva.27s_Den</a><p>
+

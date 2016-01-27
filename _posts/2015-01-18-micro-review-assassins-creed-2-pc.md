@@ -10,3 +10,5 @@ After fixing most of the problems the original had while improving what made it 
 
 Screenshots: I can't find any screenshots from my playthrough.
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Assassin's_Creed_II">https://en.wikipedia.org/wiki/Assassin's_Creed_II</a><p>
+

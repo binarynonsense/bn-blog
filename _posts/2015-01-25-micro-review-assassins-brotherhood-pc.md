@@ -12,3 +12,5 @@ Similar to the previous one, with some small gameplay improvements, a little sho
 
 ![screenshot]({{ site.baseurl }}/images/posts/brotherhood_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Assassin's_Creed:_Brotherhood">https://en.wikipedia.org/wiki/Assassin's_Creed:_Brotherhood</a><p>
+

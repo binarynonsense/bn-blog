@@ -12,3 +12,4 @@ categories:
 
 
 <p>Excellent historical novel set in Ancient Egypt. A classic everyone should read. </p>
+<p>More info: <a href="https://www.goodreads.com/book/show/59282.The_Egyptian">https://www.goodreads.com/book/show/59282.The_Egyptian</a><p>

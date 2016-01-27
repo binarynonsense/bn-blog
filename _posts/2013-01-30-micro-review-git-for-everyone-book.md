@@ -12,3 +12,4 @@ categories:
 
 
 <p>A good book to learn the basics of version control using Git. It's a little short, 180 pages, but covers enough material to get started and explains it using clear and simple examples.</p>
+<p>More info: <a href="https://www.goodreads.com/book/show/17049480-git">https://www.goodreads.com/book/show/17049480-git</a><p>

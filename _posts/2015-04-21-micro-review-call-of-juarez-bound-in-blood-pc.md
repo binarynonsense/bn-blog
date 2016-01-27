@@ -12,3 +12,5 @@ The first couple of levels or so are quite dull and uninspired, but it gets much
 
 ![screenshot]({{ site.baseurl }}/images/posts/calljuarezblood_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Call_of_Juarez:_Bound_in_Blood">https://en.wikipedia.org/wiki/Call_of_Juarez:_Bound_in_Blood</a><p>
+

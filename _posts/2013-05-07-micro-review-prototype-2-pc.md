@@ -13,3 +13,6 @@ Not too many things to do around the city, but I enjoyed the story missions and 
 
 ![screenshot]({{ site.baseurl }}/images/posts/prototype2_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Prototype_2">https://en.wikipedia.org/wiki/Prototype_2</a><p>
+

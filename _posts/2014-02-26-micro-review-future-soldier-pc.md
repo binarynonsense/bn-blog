@@ -13,3 +13,6 @@ I really enjoyed it. Not too tactical but very fun.
 
 ![screenshot]({{ site.baseurl }}/images/posts/futuresoldier_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Tom_Clancy's_Ghost_Recon:_Future_Soldier">https://en.wikipedia.org/wiki/Tom_Clancy's_Ghost_Recon:_Future_Soldier</a><p>
+

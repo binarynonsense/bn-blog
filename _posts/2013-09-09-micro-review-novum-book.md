@@ -12,4 +12,5 @@ categories:
 
 
 <p>Quite short but has an enjoyable plot and interesting characters. A promising introduction to a story with a lot of potential, hopefully it will be expanded in a sequel or a series of novels.</p>
+<p>More info: <a href="https://www.goodreads.com/book/show/18394906-novum">https://www.goodreads.com/book/show/18394906-novum</a><p>
 

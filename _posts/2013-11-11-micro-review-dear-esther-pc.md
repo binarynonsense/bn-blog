@@ -13,3 +13,6 @@ I liked it more than I expected. Although you basically just walk around and lis
 
 ![screenshot]({{ site.baseurl }}/images/posts/dearesther_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Dear_Esther">https://en.wikipedia.org/wiki/Dear_Esther</a><p>
+

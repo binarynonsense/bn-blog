@@ -11,3 +11,6 @@ The game that finally managed to make you feel like Batman. Amazing, fluid comba
 
 ![screenshot]({{ site.baseurl }}/images/posts/batman_01.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum">https://en.wikipedia.org/wiki/Batman:_Arkham_Asylum</a><p>
+

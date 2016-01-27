@@ -12,4 +12,5 @@ categories:
 
 
 <p>A great book where Simon describes the places he visited, the people he met and, especially, what he felt and thought during his amazing trip around the globe on a motorbike.</p>
+<p>More info: <a href="https://en.wikipedia.org/wiki/Jupiter's_Travels">https://en.wikipedia.org/wiki/Jupiter's_Travels</a><p>
 

@@ -13,3 +13,6 @@ Nice graphics and driving mechanics, fun story missions and tons of activities a
 
 ![screenshot]({{ site.baseurl }}/images/posts/driver_sf_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Driver:_San_Francisco">https://en.wikipedia.org/wiki/Driver:_San_Francisco</a><p>
+

@@ -13,3 +13,5 @@ A competent FPS, nothing remarkable but I enjoy playing this type of games from 
 
 ![screenshot]({{ site.baseurl }}/images/posts/warfighter_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Medal_of_Honor:_Warfighter">https://en.wikipedia.org/wiki/Medal_of_Honor:_Warfighter</a><p>
+

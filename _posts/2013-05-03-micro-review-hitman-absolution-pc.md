@@ -13,3 +13,6 @@ Liked it, trying to solve the missions as silently as possible is really enterta
 
 ![screenshot]({{ site.baseurl }}/images/posts/hitmanabsolution_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Hitman:_Absolution">https://en.wikipedia.org/wiki/Hitman:_Absolution</a><p>
+

@@ -12,3 +12,4 @@ categories:
 
 
 <p>The Silo saga keeps getting better. If you liked the Wool books this Shift Omnibus won't dissapoint you. Great read.</p>
+<p>More info: <a href="https://www.goodreads.com/book/show/17306293-shift">https://www.goodreads.com/book/show/17306293-shift</a><p>

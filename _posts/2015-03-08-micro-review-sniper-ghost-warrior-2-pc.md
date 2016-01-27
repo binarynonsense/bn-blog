@@ -12,3 +12,5 @@ Relatively good looking and quite entertaining. Not a bad choice if you find it 
 
 ![screenshot]({{ site.baseurl }}/images/posts/sniperghost2_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Sniper:_Ghost_Warrior_2">https://en.wikipedia.org/wiki/Sniper:_Ghost_Warrior_2</a><p>
+

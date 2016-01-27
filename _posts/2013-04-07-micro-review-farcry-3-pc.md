@@ -13,3 +13,6 @@ Based on the great core mechanics from the second game, with the previous design
 
 ![screenshot]({{ site.baseurl }}/images/posts/farcry3_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Far_Cry_3">https://en.wikipedia.org/wiki/Far_Cry_3</a><p>
+

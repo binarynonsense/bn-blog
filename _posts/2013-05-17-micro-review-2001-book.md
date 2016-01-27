@@ -12,6 +12,7 @@ categories:
 
 
 <p>A true sci-fi classic. A little short but highly recommended.</p>
+<p>More info: <a href="https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28novel%29">https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28novel%29</a><p>
 
 
 

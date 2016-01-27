@@ -12,3 +12,4 @@ categories:
 
 
 <p>The book is a little thin, around 200 pages, but the story is fast-paced and very interesting, and the strange alien world it takes place in is full of amazing details.</p>
+<p>More info: <a href="https://en.wikipedia.org/wiki/Midworld">https://en.wikipedia.org/wiki/Midworld</a><p>

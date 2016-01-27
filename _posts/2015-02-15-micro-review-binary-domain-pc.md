@@ -12,3 +12,5 @@ Very entertaining shooter, although the controls feel a little clunky at first, 
 
 ![screenshot]({{ site.baseurl }}/images/posts/binarydomain_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Binary_Domain">https://en.wikipedia.org/wiki/Binary_Domain</a><p>
+

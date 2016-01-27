@@ -13,3 +13,5 @@ It really is a great game and exploring its beautifully crafted world is tons of
 
 ![screenshot]({{ site.baseurl }}/images/posts/skyrim_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim">https://en.wikipedia.org/wiki/The_Elder_Scrolls_V:_Skyrim</a><p>
+

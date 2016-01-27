@@ -13,3 +13,6 @@ Really nice graphics, great voice acting, funny dialogues... One of my favorite 
 
 ![screenshot]({{ site.baseurl }}/images/posts/bout_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/The_Book_of_Unwritten_Tales">https://en.wikipedia.org/wiki/The_Book_of_Unwritten_Tales</a><p>
+

@@ -13,3 +13,5 @@ Short but fun platformer with some action and puzzles. I especially liked its vi
 
 ![screenshot]({{ site.baseurl }}/images/posts/deadlight_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Deadlight">https://en.wikipedia.org/wiki/Deadlight</a><p>
+

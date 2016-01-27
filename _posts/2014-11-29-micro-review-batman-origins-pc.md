@@ -13,3 +13,5 @@ More of the same, which in this case is a good thing: satisfying melee combat, s
 
 ![screenshot]({{ site.baseurl }}/images/posts/batmanorigins_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Batman:_Arkham_Origins">https://en.wikipedia.org/wiki/Batman:_Arkham_Origins</a><p>
+

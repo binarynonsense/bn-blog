@@ -12,3 +12,6 @@ Despite some annoying design flaws (the enemy respawns, the malaria, the weak st
 
 ![screenshot]({{ site.baseurl }}/images/posts/farcry2_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Far_Cry_2">https://en.wikipedia.org/wiki/Far_Cry_2</a><p>
+

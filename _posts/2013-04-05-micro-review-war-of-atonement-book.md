@@ -12,3 +12,4 @@ categories:
 
 
 <p>A detailed account of the Yom Kippur War, although mostly just from the Israeli point of view.</p>
+<p>More info: <a href="https://www.goodreads.com/book/show/80124.The_War_of_Atonement">https://www.goodreads.com/book/show/80124.The_War_of_Atonement</a><p>

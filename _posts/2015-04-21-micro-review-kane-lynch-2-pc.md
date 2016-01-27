@@ -12,3 +12,5 @@ Quite short but worth playing for its great visual style and polished, non-stop 
 
 ![screenshot]({{ site.baseurl }}/images/posts/kanelynch2_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Kane_%26_Lynch_2:_Dog_Days">https://en.wikipedia.org/wiki/Kane_%26_Lynch_2:_Dog_Days</a><p>
+

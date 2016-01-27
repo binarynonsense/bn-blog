@@ -13,3 +13,5 @@ A little short and simple gameplay-wise but I liked the visuals, combat and stor
 
 ![screenshot]({{ site.baseurl }}/images/posts/marswarlogs_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Mars:_War_Logs">https://en.wikipedia.org/wiki/Mars:_War_Logs</a><p>
+

@@ -13,3 +13,5 @@ The first big area was a little disappointing but the rest of the game was fun. 
 
 ![screenshot]({{ site.baseurl }}/images/posts/riptide_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Dead_Island:_Riptide">https://en.wikipedia.org/wiki/Dead_Island:_Riptide</a><p>
+

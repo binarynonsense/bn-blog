@@ -14,3 +14,6 @@ Looks quite gorgeous even on medium settings and the story and gameplay are grea
 
 ![screenshot]({{ site.baseurl }}/images/posts/witcher2_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/The_Witcher_2:_Assassins_of_Kings">https://en.wikipedia.org/wiki/The_Witcher_2:_Assassins_of_Kings</a><p>
+

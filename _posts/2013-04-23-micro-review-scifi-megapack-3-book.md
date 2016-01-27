@@ -12,3 +12,4 @@ categories:
 
 
 <p>A collection of short science fiction stories. All of them are at least entertaining and a few are even quite good.</p>
+<p>More info: <a href="https://www.goodreads.com/book/show/13548310-the-third-science-fiction-megapack">https://www.goodreads.com/book/show/13548310-the-third-science-fiction-megapack</a><p>

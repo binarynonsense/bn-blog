@@ -11,3 +11,7 @@ Very fun campaign, as the previous ones, but a little short, and extremely gorge
 
 ![screenshot]({{ site.baseurl }}/images/posts/crysis3_01.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Crysis_3">https://en.wikipedia.org/wiki/Crysis_3</a><p>
+
+

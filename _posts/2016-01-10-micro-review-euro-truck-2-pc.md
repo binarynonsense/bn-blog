@@ -15,3 +15,5 @@ There's something very relaxing about driving your truck around Europe in this g
 
 ![screenshot]({{ site.baseurl }}/images/posts/eurotruck2_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Euro_Truck_Simulator_2">https://en.wikipedia.org/wiki/Euro_Truck_Simulator_2</a><p>
+

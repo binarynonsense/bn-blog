@@ -11,3 +11,5 @@ Clunky controls, dull combat, ugly graphics, annoying quick time events, bugs...
 
 ![screenshot]({{ site.baseurl }}/images/posts/deadly_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Deadly_Premonition">https://en.wikipedia.org/wiki/Deadly_Premonition</a><p>
+

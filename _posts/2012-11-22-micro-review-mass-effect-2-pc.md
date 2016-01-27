@@ -13,3 +13,6 @@ The first game was quite good but this one perfected the fomula: a great mix of 
 
 ![screenshot]({{ site.baseurl }}/images/posts/masseffect2_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Mass_Effect_2">https://en.wikipedia.org/wiki/Mass_Effect_2</a><p>
+

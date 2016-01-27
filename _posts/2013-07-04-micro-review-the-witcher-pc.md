@@ -12,3 +12,6 @@ A little clunky and dated graphics-wise but still looks nice and the story and a
 
 ![screenshot]({{ site.baseurl }}/images/posts/witcher_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/The_Witcher_%28video_game%29">https://en.wikipedia.org/wiki/The_Witcher_%28video_game%29</a><p>
+

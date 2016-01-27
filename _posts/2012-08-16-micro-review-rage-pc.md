@@ -13,3 +13,6 @@ I didn't care much about the driving parts, but the FPS areas are great: shootin
 
 ![screenshot]({{ site.baseurl }}/images/posts/rage_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Rage_%28video_game%29">https://en.wikipedia.org/wiki/Rage_%28video_game%29</a><p>
+

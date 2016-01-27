@@ -12,3 +12,4 @@ categories:
 
 
 <p>A non-mathematical explanation of humanity's journey to discover the nature of space and time so far (relativity, quantum physics, string theory...). An amazing read anyone can enjoy.</p>
+<p>More info: <a href="https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos">https://en.wikipedia.org/wiki/The_Fabric_of_the_Cosmos</a><p>

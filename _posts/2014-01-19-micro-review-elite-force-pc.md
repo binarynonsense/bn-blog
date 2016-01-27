@@ -12,3 +12,6 @@ A little short but, in general, it's a fun FPS, especially if you like Star Trek
 
 ![screenshot]({{ site.baseurl }}/images/posts/eliteforce_02.jpg)
 
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force">https://en.wikipedia.org/wiki/Star_Trek:_Voyager_%E2%80%93_Elite_Force</a><p>
+

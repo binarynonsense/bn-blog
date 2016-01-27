@@ -10,3 +10,5 @@ If you liked Splinter Cell: Conviction you'll probably enjoy this one too, the c
 
 Screenshots: I can't find any screenshots from my playthrough.
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell_Blacklist">https://en.wikipedia.org/wiki/Tom_Clancy's_Splinter_Cell_Blacklist</a><p>
+

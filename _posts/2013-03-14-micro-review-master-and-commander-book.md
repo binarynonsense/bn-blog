@@ -12,5 +12,6 @@ categories:
 
 
 <p>I didn't find it as engaging as I thought it would be, due to its fame, but it's a quite entertaining sea adventure novel.</p>
+<p>More info: <a href="https://en.wikipedia.org/wiki/Master_and_Commander">https://en.wikipedia.org/wiki/Master_and_Commander</a><p>
 
 
