@@ -12,7 +12,7 @@ categories:
 
 
 <p>A must read for anyone interested in game development and the history of video games. One of my favorite books, reading about John Carmack and John Romero is always inspiring.</p>
-<p>more info: <a href="https://en.wikipedia.org/wiki/Masters_of_doom">https://en.wikipedia.org/wiki/Masters_of_doom</a><p>
+<p>More info: <a href="https://en.wikipedia.org/wiki/Masters_of_doom">https://en.wikipedia.org/wiki/Masters_of_doom</a><p>
 
 
 

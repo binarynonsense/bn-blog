@@ -12,4 +12,4 @@ categories:
 
 
 <p>I wasn't sure after the first pages but ended up liking it.</p>
-<p>more info: <a href="https://en.wikipedia.org/wiki/Return_from_the_Stars">https://en.wikipedia.org/wiki/Return_from_the_Stars</a><p>
+<p>More info: <a href="https://en.wikipedia.org/wiki/Return_from_the_Stars">https://en.wikipedia.org/wiki/Return_from_the_Stars</a><p>

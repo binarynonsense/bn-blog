@@ -12,4 +12,4 @@ categories:
 
 
 <p>Just an entertaining read, was expecting more but I'll probably get season 2 some day.</p>
-<p>more info: <a href="https://www.goodreads.com/book/show/12814430-yesterday-s-gone">https://www.goodreads.com/book/show/12814430-yesterday-s-gone</a><p>
+<p>More info: <a href="https://www.goodreads.com/book/show/12814430-yesterday-s-gone">https://www.goodreads.com/book/show/12814430-yesterday-s-gone</a><p>
