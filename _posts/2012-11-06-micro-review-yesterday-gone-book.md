@@ -11,4 +11,4 @@ categories:
 ![screenshot]({{ site.baseurl }}/images/posts/books_yesterdaygone.jpg)
 
 
-<p>Entertaining read, not great but I'll probably get season 2 some day.</p>
+<p>Just an entertaining read, was expecting more but I'll probably get season 2 some day.</p>
