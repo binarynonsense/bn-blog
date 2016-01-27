@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: The Battle for Iwo Jima 1945 (Book)"
+title: "Micro Review: Blaze (Book)"
 categories:
 - book-reviews
 ---
