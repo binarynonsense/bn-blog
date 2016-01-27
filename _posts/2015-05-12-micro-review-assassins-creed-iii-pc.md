@@ -11,3 +11,4 @@ I loved the recreation of revolutionary America (especially Boston) and liked th
 
 ![screenshot]({{ site.baseurl }}/images/posts/assassins3_02.jpg)
 
+<p>More info: <a href="https://en.wikipedia.org/wiki/Assassin's_Creed_III">https://en.wikipedia.org/wiki/Assassin's_Creed_III</a><p>
