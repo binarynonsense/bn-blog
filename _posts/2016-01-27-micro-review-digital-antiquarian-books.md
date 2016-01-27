@@ -5,7 +5,7 @@ categories:
 - book-reviews
 ---
 
-<p>Book author: Jimmy Maher | My rating: 4/5</p>
+<p>Book author: Jimmy Maher | My rating: 4.5/5</p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/books_digitalantiquarianvol1.jpg)
