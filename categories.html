@@ -25,9 +25,8 @@ title: Categories & Posts by Category
 <div id="home">
   <h2><i class="fa fa-bookmark"></i> Posts by Category:</h2>
   
-  <ul id="blog-posts" class="posts">
   {% for category in sorted_categories %}
-  <li>&raquo; <a name="{{ category | first }}"></a>{{ category | first }}:
+  <p>&raquo; <a name="{{ category | first }}"></a>{{ category | first }}:</p>
     <ul>
     {% for posts in category %}
       {% for post in posts %}
@@ -35,8 +34,6 @@ title: Categories & Posts by Category
       {% endfor %}
     {% endfor %}
     </ul>
-  </li>
   {% endfor %}
-  </ul>
   <br/>
 </div>
