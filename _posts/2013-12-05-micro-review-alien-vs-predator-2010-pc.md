@@ -5,7 +5,7 @@ categories:
 - game-reviews
 ---
 
-It's relatively short and some of the levels are reused too much between the three campaigns, but it's a decent game, especially when playing as the marine and the Alien (the Predator's campaign wasn't bad, but I didn't enjoy it too much). Graphically, it still looks quite nice:
+It's relatively short and some of the levels are reused too much between the three campaigns, but it's a decent game, especially when playing as the marine and the Alien (the Predator's campaign wasn't bad, but I didn't enjoy it that much). Graphically, it still looks quite nice:
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/alienvspredator2010_01.jpg)
