@@ -5,7 +5,7 @@ categories:
 - game-reviews
 ---
 
-Really atmospheric, despite its age. The three campaigns (marine, alien and predator) have different play styles and are still a lot of fun.
+Really atmospheric, despite its age. The three campaigns (marine, Alien and Predator) have different play styles and are still a lot of fun.
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/alienvspredator2_01.jpg)
