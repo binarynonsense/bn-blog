@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Tomb Raider (PC Game)"
+title: "Micro Review: Tomb Raider (2013) (PC Game)"
 categories:
 - game-reviews
 ---
