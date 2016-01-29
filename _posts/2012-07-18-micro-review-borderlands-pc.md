@@ -6,7 +6,7 @@ categories:
 ---
 
 
-Excellent visual design and addicting gameplay. Including the DLCs it offers an incredible amount of hours of fun.
+Excellent visual design and addicting gameplay. It offers an incredible amount of hours of fun, and has some good DLCs if you want even more.
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/borderlands_01.jpg)
