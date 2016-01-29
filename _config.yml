@@ -1,9 +1,9 @@
 # General Jekyll Config
 highlighter: pygments
-url: http://binarynonsense.github.io/bn-blog
+url: http://blog.binarynonsense.com/
 lsi: false
 exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
-baseurl: http://binarynonsense.github.io/bn-blog
+baseurl: http://blog.binarynonsense.com/
 excerpt_separator: "<!-- more -->"
 
 # Permalinks
