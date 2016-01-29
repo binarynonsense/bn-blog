@@ -8,4 +8,3 @@ excerpt_separator: "<!-- more -->"
 
 # Permalinks
 permalink:        /:year/:month/:day/:title/
-relative_permalinks: true
