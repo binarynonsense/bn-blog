@@ -6,7 +6,7 @@ categories:
 ---
 
 
-An amazing DLC, divided in two parts, worth it not only for being fun on its own (gameplay-wise I liked the first part more), but for how it links the story of Infinite with the one from the first Bioshock. Visiting Rapture again, now with the visual quality of Infinite, is a great experience.
+An amazing DLC, divided in two parts, worth it not only for being fun on its own (gameplay-wise I liked the first part more), but also for how it links the story of Infinite with the one from the first Bioshock. Visiting Rapture again, now with the visual quality of Infinite, is a great experience.
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/bioshockinfinitedlc_01.jpg)
