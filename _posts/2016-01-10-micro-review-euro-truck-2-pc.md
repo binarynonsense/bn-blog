@@ -7,7 +7,7 @@ categories:
 
 
 
-There's something very relaxing about driving your truck around Europe in this game while listening to the radio. I love it, I've played for more than 50 hours and I'm still not bored of it.
+There's something very relaxing about driving your truck around Europe in this game while listening to the radio. I love it, I've played for more than 60 hours and I'm still not bored of it.
 
 
 
