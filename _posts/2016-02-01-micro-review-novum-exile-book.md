@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Novum: Exile (Novum #2) (Books)"
+title: "Micro Review: Novum: Exile (Novum #2) (Book)"
 categories:
 - book-reviews
 ---
