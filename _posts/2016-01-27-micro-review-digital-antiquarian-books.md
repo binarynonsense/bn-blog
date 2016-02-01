@@ -1,14 +1,15 @@
 ---
 layout: post
-title: "Micro Review: Novum: Exile (Novum #2) (Books)"
+title: "Micro Review: The Digital Antiquarian (Books)"
 categories:
 - book-reviews
 ---
 
-<p>Book author: Joseph Rhea | My rating: 3.5/5</p>
+<p>Books author: Jimmy Maher | My rating: 4.5/5</p>
 
 
-![screenshot]({{ site.baseurl }}/images/posts/books_novumexile.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/books_digitalantiquarianvol1.jpg)
 
 
-<p>A little too short, like the first book, but the story still is engaging and keeps developing at a good pace<p>
+<p>Jimmy Maher is doing a remarkable job chronicling the history of interactive entertainment on his blog, and these free ebooks compiling his posts, sorted by the historical year, are a great way to read it.</p>
+<p>All the volumes available so far can be downloaded from <a href="http://www.filfre.net/the-digital-antiquarian-e-book-library/">his website</a>.<p>
