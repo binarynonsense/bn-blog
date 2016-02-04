@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Code Snippet: List categories alphabetically in Jekyll"
+title: "Code Snippet: List Categories Alphabetically in Jekyll"
 categories:
 - code-snippets
 - jekyll

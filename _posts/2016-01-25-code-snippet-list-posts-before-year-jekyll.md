@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Code Snippet: List posts published before a given year in Jekyll"
+title: "Code Snippet: List Posts Published Before a Given Year in Jekyll"
 categories:
 - code-snippets
 - jekyll
