@@ -12,7 +12,6 @@ categories:
 
 {% highlight c# %}
 {% raw %}
-{% assign sorted_categories= (site.categories | sort:0) %}
 using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
@@ -37,7 +36,6 @@ public class GUILoading : MonoBehaviour
 
 {% highlight c# %}
 {% raw %}
-{% assign sorted_categories= (site.categories | sort:0) %}
 ...
 
 GUILoading m_guiLoading;
