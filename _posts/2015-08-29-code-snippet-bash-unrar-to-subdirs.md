@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Code Snippet: Bash script to unrar files to same-named subdirectories"
+title: "Code Snippet: Bash Script to Unrar Files to Same-named Subdirectories"
 categories:
 - code-snippets
 ---

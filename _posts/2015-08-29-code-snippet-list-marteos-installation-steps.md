@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Code Snippet: Marte OS installation steps"
+title: "Code Snippet: Marte OS Installation Steps"
 categories:
 - code-snippets
 ---
