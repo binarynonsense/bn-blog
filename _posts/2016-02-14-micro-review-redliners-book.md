@@ -5,7 +5,7 @@ categories:
 - book-reviews
 ---
 
-<p>Book author: David Drake | My rating: &nbsp;<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o "></i>
+<p>Book author: David Drake | My rating:&nbsp;&nbsp;<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o "></i>
 </p>
 <!-- fa-star fa-star-o  fa-star-half-empty -->
 
