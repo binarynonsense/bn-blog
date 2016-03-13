@@ -5,7 +5,7 @@ categories:
 - book-reviews
 ---
 
-<p>Book author: Joseph Rhea | My rating: 3.5/5</p>
+<p>Book author: Joseph Rhea | My rating:&nbsp;&nbsp;<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-empty"></i><i class="fa fa-star-o "></i></p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/books_novumexile.jpg)
