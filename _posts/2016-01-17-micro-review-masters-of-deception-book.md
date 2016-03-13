@@ -5,7 +5,7 @@ categories:
 - book-reviews
 ---
 
-<p>Book authors: Michelle Slatalla and Joshua Quittner | My rating: 4/5</p>
+<p>Book authors: Michelle Slatalla and Joshua Quittner | My rating:&nbsp;&nbsp;<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o "></i></p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/books_mastersofdeception.jpg)
