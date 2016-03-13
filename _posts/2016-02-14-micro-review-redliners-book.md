@@ -5,8 +5,9 @@ categories:
 - book-reviews
 ---
 
-<p>Book author: David Drake | My rating: 4/5</p>
-
+<p>Book author: David Drake | My rating: <i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-o "></i>
+</p>
+<!-- fa-star fa-star-o  fa-star-half-empty -->
 
 ![screenshot]({{ site.baseurl }}/images/posts/books_redliners.jpg)
 
