@@ -5,7 +5,7 @@ categories:
 - book-reviews
 ---
 
-<p>Book author: David Kushner | My rating: 5/5</p>
+<p>Book author: David Kushner | My rating:&nbsp;&nbsp;<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i></p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/books_mastersofdoom.jpg)

@@ -5,7 +5,7 @@ categories:
 - book-reviews
 ---
 
-<p>Books author: Edward W. Robertson  | My rating: 4.5/5</p>
+<p>Books author: Edward W. Robertson  | My rating:&nbsp;&nbsp;<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-empty"></i></p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/books_breakers.jpg)
