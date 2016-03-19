@@ -5,7 +5,7 @@ categories:
 - game-reviews
 ---
 
-<p>Simple zelda-like gameplay and nice visual design. Quite enjoyable.</p>
+<p>Simple zelda-like gameplay and charming, colorful graphics. Quite enjoyable.</p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/oceanhorn_01.jpg)
