@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Command Line Tips: Download All the PDF Files Linked on a Webpage and Merge them Together (Linux)"
+title: "Command Line Tips: Download All the PDF Files Linked on a Webpage and Merge them Together (GNU/Linux)"
 categories:
 - command-line-tips
 - gnu-linux
