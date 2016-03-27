@@ -5,7 +5,7 @@ categories:
 - game-reviews
 ---
 
-<p>One of the best graphic adventure games ever made. The remastered version looks very similar to the original, only the character models seem to have been improved, but being able to play it on modern systems, the new mouse controls and the developers' commentary make it really worth it.</p>
+<p>One of the best graphic adventure games ever made. The remastered version looks very similar to the original, only the character models seem to have been improved, but being able to easily play it on modern systems, the new mouse controls and the developers' commentary make it really worth it.</p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/grimfandango_01.jpg)
