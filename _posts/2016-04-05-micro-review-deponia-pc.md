@@ -5,7 +5,7 @@ categories:
 - game-reviews
 ---
 
-<p>An old school point-and-click adventure game that mainly stands out for its beautiful 2D graphics and its funny and original main character.</p>
+<p>An old school point-and-click adventure game that mainly stands out for its beautiful 2D graphics and its funny and unique main character.</p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/deponia_01.jpg)
