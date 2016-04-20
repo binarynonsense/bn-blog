@@ -5,7 +5,7 @@ categories:
 - game-reviews
 ---
 
-<p>In general, a good final episode for the Deponia trilogy, very similar to the two <a href="http://blog.binarynonsense.com/2016/04/05/micro-review-deponia-pc/">previous</a> <a href="http://blog.binarynonsense.com/2016/04/16/micro-review-chaos-on-deponia-pc/">games</a>.</p>
+<p>In general, a good final episode for the Deponia trilogy, very similar to the two <a href="http://blog.binarynonsense.com/2016/04/05/micro-review-deponia-pc/">previous</a> <a href="http://blog.binarynonsense.com/2016/04/16/micro-review-chaos-on-deponia-pc/">games</a>. I played the three games back to back and combined they create a long and memorable point and click adventure.</p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/deponia3_01.jpg)
