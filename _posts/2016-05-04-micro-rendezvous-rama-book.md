@@ -5,7 +5,7 @@ categories:
 - book-reviews
 ---
 
-<p>Book author: Arthur C. Clarke | My rating:&nbsp;&nbsp;<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa-star-half-empty"></i>
+<p>Book author: Arthur C. Clarke | My rating:&nbsp;&nbsp;<i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star"></i><i class="fa fa-star-half-empty"></i>
 </p>
 <!-- fa-star fa-star-o  fa-star-half-empty -->
 
