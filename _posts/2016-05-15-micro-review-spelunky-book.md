@@ -12,7 +12,7 @@ categories:
 ![screenshot]({{ site.baseurl }}/images/posts/books_spelunky.jpg)
 
 
-<p>Easy to read and, despite its short length, full of interesting personal, creative and technical details about the creation of "Spelunky".</p>
+<p>Easy to read and, despite its short length, full of interesting personal, creative and technical details about the development of "Spelunky".</p>
 
 <p>More info: <a href="https://bossfightbooks.com/products/spelunky-by-derek-yu">https://bossfightbooks.com/products/spelunky-by-derek-yu</a><p>
 
