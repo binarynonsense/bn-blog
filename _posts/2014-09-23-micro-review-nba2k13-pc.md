@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: NBA2 K13 (PC Game)"
+title: "Micro Review: NBA 2K13 (PC Game)"
 categories:
 - game-reviews
 ---
