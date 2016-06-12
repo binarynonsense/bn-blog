@@ -12,7 +12,7 @@ categories:
 ![screenshot]({{ site.baseurl }}/images/posts/books_emergence.jpg)
 
 
-<p>A fun and engaging post-apocalyptic adventure with a very interesting and likable protagonist written as a diary in a unique shorthand style.</p>
+<p>A fun and engaging post-apocalyptic adventure, written as a diary in a unique shorthand style, with a very interesting and likable protagonist.</p>
 
 <p>More info: <a href="https://en.wikipedia.org/wiki/Emergence_(novel)">https://en.wikipedia.org/wiki/Emergence_(novel)</a><p>
 
