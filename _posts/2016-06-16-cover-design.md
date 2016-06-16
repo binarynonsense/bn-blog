@@ -2,7 +2,7 @@
 layout: post
 title: "Another cover design for a friend's book"
 categories:
-- graphic-design
+- graphic-art
 ---
 
 <p>I designed another cover for the physical and digital editions of a friend's history book (in Spanish):</p>
