@@ -5,7 +5,7 @@ categories:
 - game-reviews
 ---
 
-<p>An amazing game, the combat is a little repetitive but it adds the necessary tension to the great atmosphere created by the excellent visual and sound design.</p>
+<p>An amazing game, the combat is a little repetitive but it adds the necessary tension to complement the great atmosphere created by the excellent visual and sound design.</p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/alanwake_01.jpg)
