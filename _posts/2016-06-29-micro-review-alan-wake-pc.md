@@ -14,4 +14,4 @@ categories:
 ![screenshot]({{ site.baseurl }}/images/posts/alanwake_02.jpg)
 
 
-<p>More info: <a href="https://en.wikipedia.org/wiki/Borderlands_2">https://en.wikipedia.org/wiki/Borderlands_2</a></p>
+<p>More info: <a href="https://en.wikipedia.org/wiki/Alan_Wake">https://en.wikipedia.org/wiki/Alan_Wake</a></p>
