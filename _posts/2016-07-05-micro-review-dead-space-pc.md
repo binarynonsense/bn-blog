@@ -5,7 +5,7 @@ categories:
 - game-reviews
 ---
 
-<p><a href="http://blog.binarynonsense.com/2016/06/29/micro-review-alan-wake-pc/">Another</a> game with a great atmosphere. I really liked the level design and the visuals have aged quite well, the sound design is impressive and the gameplay is quite fun (the camera is not that great but you quickly get used too it).</p>
+<p><a href="http://blog.binarynonsense.com/2016/06/29/micro-review-alan-wake-pc/">Another</a> game with a great atmosphere. I really liked the level design and the visuals have aged very well, the sound design is impressive and the gameplay is quite fun (the camera is not that great but you quickly get used too it).</p>
 
 
 ![screenshot]({{ site.baseurl }}/images/posts/deadspace_01.jpg)
