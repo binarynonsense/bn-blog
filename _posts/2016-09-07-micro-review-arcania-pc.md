@@ -9,6 +9,7 @@ categories:
 <p>Not great, and it starts to feel a little boring by the end (it took me about 25 hours to finish), but much better than I expected given some of the reviews I'd read over the years (besides the bad performance, the only thing I really didn't like about ArcaniA was the ending, which was very disappointing, leaving things unresolved, but hopefully the expansion, which I'm going to play next, will fix that).</p>
 
 
+
 ![screenshot]({{ site.baseurl }}/images/posts/arcania_01.jpg)
 
 
