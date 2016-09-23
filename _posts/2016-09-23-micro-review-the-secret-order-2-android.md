@@ -19,4 +19,4 @@ categories:
 ![screenshot]({{ site.baseurl }}/images/posts/secretorder2_03.jpg)
 
 
-<p>More info: <a href="http://store.steampowered.com/app/399890/">http://store.steampowered.com/app/399890/</a></p>
+<p>More info: <a href="http://store.steampowered.com/app/399890/">http://store.steampowered.com/app/399890/</a> (PC version)</p>
