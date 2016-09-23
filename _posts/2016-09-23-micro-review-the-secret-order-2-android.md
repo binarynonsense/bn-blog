@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: The Secret Order 2: Masked Intent (Android & PC Game)"
+title: "Micro Review: The Secret Order 2: Masked Intent (Android Game)"
 categories:
 - game-reviews
 ---
