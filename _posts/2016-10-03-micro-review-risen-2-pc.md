@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Risen 2 (PC Game)"
+title: "Micro Review: Risen 2: Dark Waters (PC Game)"
 categories:
 - game-reviews
 ---
