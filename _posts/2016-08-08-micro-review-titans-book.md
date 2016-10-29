@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Short Review: Titans (Book)"
+title: "Micro Review: Titans (Book)"
 categories:
 - book-reviews
 ---
