@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Jurassic Park: The Game (PC Game)"
+title: "Short Review: Jurassic Park: The Game (PC Game)"
 categories:
 - game-reviews
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Game of Thrones - A Telltale Games Series (PC Game)"
+title: "Short Review: Game of Thrones - A Telltale Games Series (PC Game)"
 categories:
 - game-reviews
 ---
