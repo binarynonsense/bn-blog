@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: ArcaniA: Fall of Setarrif (PC Game)"
+title: "Short Review: ArcaniA: Fall of Setarrif (PC Game)"
 categories:
 - game-reviews
 ---

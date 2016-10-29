@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Alan Wake (PC Game)"
+title: "Short Review: Alan Wake (PC Game)"
 categories:
 - game-reviews
 ---

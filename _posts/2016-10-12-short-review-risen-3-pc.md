@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Risen 3: Titan Lords (PC Game)"
+title: "Short Review: Risen 3: Titan Lords (PC Game)"
 categories:
 - game-reviews
 ---

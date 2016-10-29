@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Mad Max (PC Game)"
+title: "Short Review: Mad Max (PC Game)"
 categories:
 - game-reviews
 ---

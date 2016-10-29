@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Borderlands 2 (PC Game)"
+title: "Short Review: Borderlands 2 (PC Game)"
 categories:
 - game-reviews
 ---

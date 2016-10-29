@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Eventide: Slavic Fable (Android Game)"
+title: "Short Review: Eventide: Slavic Fable (Android Game)"
 categories:
 - game-reviews
 ---

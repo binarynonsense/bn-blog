@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: The Secret Order 2 & 3 (Android Games)"
+title: "Short Review: The Secret Order 2 & 3 (Android Games)"
 categories:
 - game-reviews
 ---

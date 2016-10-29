@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Risen (PC Game)"
+title: "Short Review: Risen (PC Game)"
 categories:
 - game-reviews
 ---

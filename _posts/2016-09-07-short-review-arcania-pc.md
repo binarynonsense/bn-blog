@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: ArcaniA (PC Game)"
+title: "Short Review: ArcaniA (PC Game)"
 categories:
 - game-reviews
 ---

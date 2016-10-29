@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Dead Space (PC Game)"
+title: "Short Review: Dead Space (PC Game)"
 categories:
 - game-reviews
 ---

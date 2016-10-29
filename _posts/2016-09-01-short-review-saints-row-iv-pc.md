@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Saints Row IV (PC Game)"
+title: "Short Review: Saints Row IV (PC Game)"
 categories:
 - game-reviews
 ---

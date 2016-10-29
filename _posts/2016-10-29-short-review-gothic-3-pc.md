@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Gothic 3 (PC Game)"
+title: "Short Review: Gothic 3 (PC Game)"
 categories:
 - game-reviews
 ---

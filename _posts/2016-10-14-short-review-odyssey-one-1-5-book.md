@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Odyssey One 1-5 (Books)"
+title: "Short Review: Odyssey One 1-5 (Books)"
 categories:
 - book-reviews
 ---
