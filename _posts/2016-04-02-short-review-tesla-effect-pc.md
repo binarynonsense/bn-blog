@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Micro Review: Tesla Effect: A Tex Murphy Adventure (PC Game)"
+title: "Short Review: Tesla Effect: A Tex Murphy Adventure (PC Game)"
 categories:
 - game-reviews
 ---
