@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Short Review: Broken Age (PC Game)"
+categories:
+- game-reviews
+---
+
+<p>A little disappointing. The art design is quite beautiful and the story has some interesting moments but, in general, it's just a not too memorable point-and-click adventure with decent but not great puzzles and a maybe too simplified interface. Definitely not as good as I was hoping it would be when they announced its crowdfounding campaign.</p>
+
+
+![screenshot]({{ site.baseurl }}/images/posts/brokenage_01.jpg)
+
+![screenshot]({{ site.baseurl }}/images/posts/brokenage_02.jpg)
+
+
+<p>More info: <a href="https://en.wikipedia.org/wiki/Broken_Age">https://en.wikipedia.org/wiki/Broken_Age</a><p>
+
