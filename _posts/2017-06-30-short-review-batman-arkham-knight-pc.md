@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-After watching some trailers, I wasn't sure I would like it, but being able to drive and fight using the Batmobile around an open-world Gotham City is the perfect addition to the already exceptional gameplay of the previous Arkham titles, which are some of my favorite games. I was especially doubtful about the vehicle combat and the new enemies it adds, a bunch of tank-like drones, but I ended really enjoying it. The rest of the gameplay mechanics are mostly the same, gliding around is still fun, most of the gadgets are the same and the combat is exceptional.
+After watching some trailers, I wasn't sure I would like it, but being able to drive and fight using the Batmobile around an open-world Gotham City is the perfect addition to the already exceptional gameplay of the previous Arkham titles, which are some of my favorite games. I was especially doubtful about the vehicle combat and the new enemies it adds, a bunch of tank-like drones, but I ended up really enjoying it. The rest of the gameplay mechanics are mostly the same, gliding around is still fun, most of the gadgets are the same and the combat is exceptional.
 </p>
 
 <p>
