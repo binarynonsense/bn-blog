@@ -14,7 +14,7 @@ The voice acting, cutscenes and visual design are, as always, remarkable and the
 </p>
 
 <p>
-An amazing game, I had so much fun driving around Gotham, solving puzzles and fighting crime as Batman that I even finished all the secondary missions, something I don't usually do, except for the riddler challenges (there are more than 200 and it got boring after a while). I decided to buy the season pass on sale to add a few more missions to do and a bunch of skins for Batman and his car (I've always loved the designs of the 1989 movie) because I really wanted to continue playing.
+An amazing game, I had so much fun driving around Gotham, solving puzzles and fighting crime as Batman that I even finished all the secondary missions, something I didn't do in the other games, except for the riddler challenges (there are more than 200 and it got boring after a while). I decided to buy the season pass on sale to add a few more missions to do and a bunch of skins for Batman and his car (I've always loved the designs of the 1989 movie) because I really wanted to continue playing.
 </p>
 
 
