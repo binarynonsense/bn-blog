@@ -14,7 +14,7 @@ On the technical side, the visuals and animations are quite impressive, the new 
 </p>
 
 <p>
-A worthy addition to the DOOM franchise.
+A worthy addition to the franchise.
 </p>
 
 
