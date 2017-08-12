@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Short Review: DOOM (2016) (PC Game)"
+title: "Short Review: Doom (2016) (PC Game)"
 categories:
 - game-reviews
 ---
 
 <p>
-A pure shooter that perfectly mixes features from modern and classic FPS games. The glory kills are quick and spectacular enough to not get old, which was something I was afraid of, and give you health and other rewards, the movement is really fast, the shooting mechanics are simple and extremely fun... All of this, helped by the amazing metal music that kicks in while in combat, makes you want to always move forward, be on the offensive, instead of hiding behind cover like in many modern shooters, bringing back memories of the original DOOM.
+A pure shooter that perfectly mixes features from modern and classic FPS games. The glory kills are quick and spectacular enough to not get old, which was something I was afraid of, and give you health and other rewards, the movement is really fast, the shooting mechanics are simple and extremely fun... All of this, helped by the amazing metal music that kicks in while in combat, makes you want to always move forward, be on the offensive, instead of hiding behind cover like in many modern shooters, bringing back memories of the original Doom.
 </p>
 
 <p>
