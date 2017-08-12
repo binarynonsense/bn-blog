@@ -18,11 +18,11 @@ A worthy addition to the DOOM franchise.
 </p>
 
 
-![screenshot]({{ site.baseurl }}/images/posts/doom2016_01.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/doom16_01.jpg)
 
-![screenshot]({{ site.baseurl }}/images/posts/doom2016_02.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/doom16_02.jpg)
 
-![screenshot]({{ site.baseurl }}/images/posts/doom2016_03.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/doom16_03.jpg)
 
 
 <p>More info: <a href="https://en.wikipedia.org/wiki/Doom_(2016_video_game)">https://en.wikipedia.org/wiki/Doom_(2016_video_game)</a><p>
