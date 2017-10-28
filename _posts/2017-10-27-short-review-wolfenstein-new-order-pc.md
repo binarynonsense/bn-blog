@@ -11,7 +11,7 @@ I would consider The New Order a great game just for its very polished combat se
 
 <p>
 The Old Blood is a more action-focused stand-alone expansion with a simpler story that is clearly a throwback to older Wolfenstein games.
-Shorter than The New Order but full of thrilling shooting moments, I had a lot of fun playing it, but probably not as much as with main game.
+Shorter than The New Order but full of thrilling shooting moments, I had a lot of fun playing it, but probably not as much as with the main game.
 </p>
 
 
