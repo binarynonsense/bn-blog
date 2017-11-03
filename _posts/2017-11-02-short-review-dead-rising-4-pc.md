@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-I probably enjoyed it as much as I did <a href="http://blog.binarynonsense.com/2017/03/07/short-review-dead-rising-3-pc/">some months ago</a>
+I probably enjoyed it as much as I did Dead Rising 3 <a href="http://blog.binarynonsense.com/2017/03/07/short-review-dead-rising-3-pc/">some months ago</a>
 but it was a little shorter and left me with the sensation that it could have been even better if they had added some more things to do around the open world.
 </p>
 
