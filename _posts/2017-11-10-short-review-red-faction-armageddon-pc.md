@@ -7,7 +7,7 @@ categories:
 
 <p>
 A mostly unremarkable third person shooter, fun for what it is but a huge step back after the exceptional Red Faction Guerrilla.
-The level design is quite dull and repetitive and the gameplay is entertaining but average most of the time, with its destruction system being the only real highlight, especially when you use the magnet gun or a mech suit to wreak havok around you. There's also a DLC, Path to War, but it's short and uninspired, only worth it if you already own it (in my case, it came included with the game).
+The story is forgettable, little more than an excuse to move things along, the level design is quite dull and repetitive and the gameplay is entertaining but average most of the time, with its destruction system being the only real highlight, especially when you use the magnet gun or a mech suit to wreak havok around you. There's also a DLC, Path to War, but it's short and uninspired, only worth it if you already own it (in my case, it came included with the game).
 </p>
 
 
