@@ -10,7 +10,7 @@ A linear third-person action game where you play as a Captain of the Ultramarine
 </p>
 
 <p>
-I'm no expert about it but, from the books I've read and the art I've seen over the years, I think the game successfully reproduces the look and feel of the Warhammer 40,000 universe. It's a few years old now but, in general, the visual design of characters and environments is still quite good. Although some of the locations are a bit boring and empty, and the areas you can move through are quite restrictive, there are some detailed and interesting looking interiors, especially if you know a little about W40K, and the spectacle of some of the battles, destroyed buildings and vistas surrounding you at certain points make it a nice looking game.
+I'm no expert about it but, from the books I've read and the art I've seen over the years, I think the game successfully reproduces the look and feel of the Warhammer 40,000 universe. It's a few years old now but, in general, the visual design of characters and environments is still quite attractive. Although some of the locations are a bit boring and empty, and the areas you can move through are quite restrictive, there are some detailed and interesting looking interiors, especially if you know a little about W40K, and the spectacle of some of the battles, destroyed buildings and vistas surrounding you at certain points make it a nice looking game.
 </p>
 
 <p>
