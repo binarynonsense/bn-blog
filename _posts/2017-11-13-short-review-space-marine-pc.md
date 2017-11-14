@@ -14,7 +14,7 @@ I'm no expert about it but, from the books I've read and the art I've seen over 
 </p>
 
 <p>
-The story is simple and predictable, but engaging. There's not much character development but it was enough to make me root for Captain Titus and his allies. A good starting point for what I've read would have been a trilogy... quite a pity they didn't make a sequel.
+The story is simple and predictable, but engaging. There's not much character development but it was enough to make me root for Captain Titus and his allies. A good starting point for what I've read would have been a trilogy... quite a pity that, so far, they haven't made a sequel.
 </p>
 
 
