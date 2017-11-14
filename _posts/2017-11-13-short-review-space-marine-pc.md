@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-A linear third-person action game where you play as a Captain of the Ultramarines, with gameplay focusing on a nice mix of shooting and melee combat. As soon as you start moving, the sound and camera shake after each step help you sense the power of your bulky character and, when it comes to the fighting, you immediately feel as powerful as you imagine an Astartes would be. Close-combat is intense and gory while long range weapons are fun to use and also quite bloody, making it a really enjoyable and visceral experience.
+A linear third-person action game where you play as a Captain of the Ultramarines, with gameplay focusing on a nice mix of shooting and melee combat. As soon as you start moving, the sound and camera shake after each footstep help you sense the power of your bulky character and, when it comes to the fighting, you immediately feel as powerful as you imagine an Astartes would be. Close-combat is intense and gory while long range weapons are fun to use and also quite bloody, making it a really enjoyable and visceral experience.
 </p>
 
 <p>
