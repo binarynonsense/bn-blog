@@ -18,11 +18,11 @@ The story is good in general, especially some of the more intriguing side missio
 </p>
 
 
-![screenshot]({{ site.baseurl }}/images/posts/deusexmd_01.jpg.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/deusexmd_01.jpg)
 
-![screenshot]({{ site.baseurl }}/images/posts/deusexmd_02.jpg.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/deusexmd_02.jpg)
 
-![screenshot]({{ site.baseurl }}/images/posts/deusexmd_03.jpg.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/deusexmd_03.jpg)
 
 
 <p>More info: <a href="https://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided">https://en.wikipedia.org/wiki/Deus_Ex:_Mankind_Divided</a><p>
