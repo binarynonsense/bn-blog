@@ -10,7 +10,7 @@ I love the version of Prague they created for this game, it's a great looking an
 </p>
 
 <p>
-When it comes to the gameplay, it's quite similar to Human Revolution, mostly a refinement of the mechanics, which is totally fine with me because I really liked that one. I enjoyed a lot taking a non lethal approach with this one, looking for vents to go around security guards, hacking everything I saw... the freedom to choose how you face the missions is still one of my favorite things about these games.
+When it comes to the gameplay, it's quite similar to "Human Revolution", mostly a refinement of the mechanics, which is totally fine with me because I really liked that one. I enjoyed a lot taking a non lethal approach with this one, looking for vents to go around security guards, hacking everything I saw... the freedom to choose how you face the missions is still one of my favorite things about these games.
 </p>
 
 <p>
