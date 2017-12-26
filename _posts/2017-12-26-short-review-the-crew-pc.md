@@ -10,7 +10,7 @@ I had no interest in the multiplayer aspects of this game, but had been wanting 
 </p>
 
 <p>
-The plot and characters are quite unoriginal and generic, but well presented and decent enough to motivate you to win races and improve your cars to progress through the story. Driving the vehicles is always fun and they behave differently depending on the type of car and terrain, so you have to adapt to the situation. The missions are varied and enjoyable, challenging at times but never frustrating (except for the crates missions, I didn't like those ones that much and found one of them quite annoying, luckily there are only a few of them).
+The plot and characters are quite unoriginal and generic, but well presented and decent enough to motivate you to win races and improve your cars to progress through the story. Driving the vehicles is always fun and they behave differently depending on the type of car and terrain, so you have to adapt to the situation. The missions are varied and enjoyable, easy in general and challenging at times but never frustrating (except for the crates missions, I didn't like those ones that much and found one of them quite annoying, luckily there are only a few of them).
 </p>
 
 <p>
