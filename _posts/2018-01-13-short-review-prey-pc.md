@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-I loved it. I really enjoy this type of games, so I was pretty sure I'd like it, but "Prey" is even better than I expected. A really well designed and highly polished experience, definitely one of my favorite games of all time.
+I really enjoy this type of games, so I was pretty sure I'd like it, but "Prey" is even better than I expected. A really well designed and highly polished experience, definitely one of my favorite games of all time.
 </p>
 
 <p>
