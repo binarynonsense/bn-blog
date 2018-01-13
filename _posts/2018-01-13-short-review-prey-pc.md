@@ -10,7 +10,7 @@ I really enjoy this type of games, so I was pretty sure I'd like it, but "Prey" 
 </p>
 
 <p>
-The story is engaging and thought provoking, there are a good number of interesting side missions and exploring the space station itself is addicting, thanks to its atmospheric environments, the intriguing alternative history backstory and the satisfying gameplay loop. Some of the core mechanics reminded me of games like System Shock 2, Deus Ex, Bioshock... giving you multiple ways to solve the objectives depending on your play style, including multiple endings based on your actions throughout the game, with some substantial additions gameplay-wise like the goo gun or the recyclers and fabricators. I had so much fun that I tried to visit every corner of the map and solve as many missions as I could find... one of those games that part of you wants to go on forever.
+The story is engaging and thought provoking, there are a good number of interesting side missions and exploring the space station itself is addicting, thanks to its atmospheric environments, the intriguing alternative history backstory and the satisfying gameplay loop. Some of the core mechanics reminded me of games like System Shock 2, Deus Ex, Bioshock... giving you multiple ways to solve the objectives depending on your play style, including a few different endings based on your actions throughout the game, with some substantial additions gameplay-wise like the goo gun or the recyclers and fabricators. I had so much fun that I tried to visit every corner of the map and solve as many missions as I could find... one of those games that part of you wants to go on forever.
 </p>
 
 
