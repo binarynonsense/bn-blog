@@ -10,7 +10,7 @@ It's been a decent stealth game to play while waiting for Dishonored 2 to get ch
 </p>
 
 <p>
-The story felt uninspired, most of the optional jobs were too simple, making trying to complete them all quite monotonous very fast, and the main missions, while more interesting, also lacked variety... but the stealth mechanics and level design were good enough to make up for it, to a degree, resulting in a flawed but entertaining experience.
+The story felt uninspired, most of the optional jobs were too simple, making trying to complete them all quite monotonous very fast, and the main missions, while more interesting, also lacked variety... but the stealth mechanics and level design were good enough to make up for all that, to a degree, resulting in a flawed but entertaining experience.
 </p>
 
 
