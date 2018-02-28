@@ -6,11 +6,11 @@ categories:
 ---
 
 <p>
-It's been a decent stealth game to play while waiting for Dishonored 2 to get cheaper, but far from perfect. At first, I quite liked the hub area, the art design looked promising and it was fun to move around to get from job to job, but it soon started to get quite repetitive both visually and content-wise. Having to avoid the same guards following the same routes over and over got a little tedious, and most of the different areas of the city looked too similar (I liked their design, but a little more diversity would have been welcomed).
+It's been a decent stealth game to play while waiting for Dishonored 2 to get cheaper, but far from perfect. At first, I really liked the hub area, the art design looked promising and it was fun to move around to get from job to job, but it soon started to get quite repetitive both visually and content-wise. Having to avoid the same guards following the same routes over and over got a little tedious, and most of the different areas of the city looked too similar (I liked their design, but more diversity would have been welcomed).
 </p>
 
 <p>
-The story felt uninspired, most of the optional jobs were too simple, making trying to complete them all quite monotonous very fast, and the main missions, while more interesting, also lacked variety... but the stealth mechanics and level design were good enough to make up for all that, to a degree, resulting in a flawed but entertaining experience.
+The story felt uninspired, most of the optional jobs were too simple, making trying to complete them all quite monotonous very fast, and the main missions, while all of them are more interesting and there are a few especially good ones, also lacked a little more variety... but the stealth mechanics and level design were good enough to make up for all that, to a degree, resulting in a flawed but entertaining experience.
 </p>
 
 
