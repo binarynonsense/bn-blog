@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-The gameplay and graphics, a mix of Assassin's Creed 3 and 4, hold up really well: the sea battles are as engaging as ever, making it fun to travel around the game's world looking for trouble to steal materials to upgrade your ship, and some land areas, like New York, are quite attractive just to look at and explore, with tons of collectibles to find and zones to liberate. Nothing new, but still as enjoyable as before.
+The gameplay and graphics, a mix of Assassin's Creed 3 and 4, hold up really well: the sea battles are as engaging as ever, making it fun to travel around the game's world looking for trouble to steal materials to upgrade your ship, and some land areas, especially New York, are quite attractive just to look at and explore, with tons of collectibles to find and zones to liberate. Nothing new, but still as enjoyable as before.
 </p>
 
 <p>
