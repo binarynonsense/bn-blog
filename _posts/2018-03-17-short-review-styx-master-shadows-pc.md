@@ -14,7 +14,7 @@ Although a little repetitive, the level design was rather good, with multiple pa
 </p>
 
 <p>
-All in all, while not the best and with some uneven moments, it was a rewarding stealth experience. Exploring the levels to quietly find the best way to reach an objective was always quite fun and lurking behind the shadows to study a guard's route or jumping from ledge to ledge, waiting for the best time and place to eliminate an enemy below you without being seen or heard, never got old.
+All in all, while not the best and with some uneven moments, it was a rewarding stealth experience. Exploring the levels to quietly find the best way to reach an objective was always quite fun, and lurking behind the shadows to study a guard's route or jumping from ledge to ledge, waiting for the best time and place to eliminate an enemy below you without being seen or heard, never got old.
 </p>
 
 
