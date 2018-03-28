@@ -10,7 +10,7 @@ Luckily, I had a great time just going around blowing things up and never got bo
 </p>
 
 <p>
-I don't want to make it sound like a bad game, it's repetitive but I liked it. It's a similar experience to the previous entry in the series, and like with that one I had a lot of fun playing, but I think it was a missed opportunity to make an even better game. In both, the visuals, especially the terrain and explosions, were remarkable but, while "Just Cause 2" run great on modest machines, this one's performance was less than ideal. And, to me, some of the changes, like the absence of a minimap or the progression system I mentioned above, made it worse.
+I don't want to make it sound like a bad game, it's repetitive but I liked it. It's a similar experience to the previous entry in the series, and like with that one I had a lot of fun playing, but I think it was a missed opportunity to make an even better game. In both, the visuals, especially the terrain and explosions, were remarkable for their time but, while "Just Cause 2" run great on modest machines, this one's performance was less than ideal. And, to me, some of the changes, like the absence of a minimap or the progression system I mentioned above, made it worse.
 </p>
 
 
