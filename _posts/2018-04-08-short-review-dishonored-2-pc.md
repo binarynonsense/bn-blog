@@ -10,7 +10,7 @@ What an amazing game, everything I liked about <a href="http://blog.binarynonsen
 </p>
 
 <p>
-Probably the best stealth game I've ever played, trying to finish it without killing or being detected has been one of my favorite gaming experiences so far.
+Probably the best stealth game I've ever played, finishing it without killing or being detected has been one of my favorite gaming experiences so far.
 </p>
 
 
