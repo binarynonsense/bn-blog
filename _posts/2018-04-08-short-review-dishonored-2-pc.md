@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-What an amazing game, everything I liked about <a href="http://blog.binarynonsense.com/2018/02/03/short-review-dishonored-pc/">Dishonored</a> is still there but even better. Plays mostly exactly like the first game but the overall experience is a little more polished. The level design is superb, managing to include the things it requires to be a great stealth game (multiple paths, a lot of verticality...) while making the maps feel realistic, not just levels in a game built with only gameplay purposes in mind, thanks in big part to their slightly strange looking but awe-inspiring and believable architecture. It's a strange world, but the story, lore and characters make you feel like you are visiting a real place.
+What an amazing game, everything I liked about <a href="http://blog.binarynonsense.com/2018/02/03/short-review-dishonored-pc/">Dishonored</a> is still there but even better. Plays mostly exactly like the first game but the overall experience is a little more polished. The level design is superb, managing to include the things it requires to be a great stealth game (multiple paths, a lot of verticality...) while making the maps seem realistic, not just levels in a game built with only gameplay purposes in mind, thanks in big part to their slightly strange looking but awe-inspiring and believable architecture. It's a strange world, but the story, lore and characters help you feel like you are visiting a real place.
 </p>
 
 <p>
