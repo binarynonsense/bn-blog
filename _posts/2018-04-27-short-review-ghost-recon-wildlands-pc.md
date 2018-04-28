@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-I can see some people finding the gameplay too repetitive but I never got tired of it during the almost 50 hours it took me to finish the campaign in single-player mode. It takes some of the things I liked about the previous Ghost Recon game, a linear tactical shooter, to an open world, mixing two types of games I really enjoy in a very satisfying way.
+I can see some people finding the gameplay too repetitive but I never got tired of it during the almost 50 hours it took me to finish the campaign in single-player mode. It takes some of my favorite things about the previous Ghost Recon, a linear tactical shooter, to an open world, mixing two types of games I really enjoy in a very satisfying way.
 </p>
 
 <p>
