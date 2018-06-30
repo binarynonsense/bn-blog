@@ -10,5 +10,5 @@ Just created a <a href="https://binarynonsense.itch.io/handoru">page on itch.io<
 In this build, there's a 'career mode' where you can walk around or drive the one car you'll own from the start, talk to Vinny to start some test jobs (4 or 5 hand-designed trailer deliveries and infinite randomly generated crates deliveries), get inside some buildings and play some elarly versions of minigames like chess or an arcade game... and basically explore a chunk of the game's island. There is also a 'challenges' section that currently just has a couple test examples.
 
 <div style="text-align: center;">
-<iframe allowfullscreen="allowfullscreen" frameborder="0" height="336" src="https://www.youtube.com/watch?v=_dksn0jkLGk" width="550"></iframe>
+<iframe allowfullscreen="allowfullscreen" frameborder="0" height="336" src="http://www.youtube.com/embed/_dksn0jkLGk" width="550"></iframe>
 </div><br/>
