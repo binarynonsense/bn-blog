@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-Maybe not as good as I was expecting after many years of reading great things about it (it is a little short, the movement and some of the animations are too slow and the puzzles are fair but mostly unremarkable) but it's a charming graphic adventure with a light but intriguing story and a lot of atmosphere. Despite its age, I still found some of the visuals quite amazing and enjoyed exploring its wondrous environments and talking to the peculiar characters that populate them to find a little more about their back story.
+Maybe not as good as I was expecting after many years of reading great things about it (it is a little short, the movement and some of the animations are too slow and the puzzles are fair but mostly unremarkable) but it's a charming graphic adventure with a light but intriguing story and a lot of atmosphere. Despite its age, I still found some of the visuals quite amazing and enjoyed exploring its wondrous environments and talking to the peculiar characters that populate them to find out as much as I could about their back story.
 </p>
 
 
