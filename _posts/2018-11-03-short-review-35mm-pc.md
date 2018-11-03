@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-It's a bit short, the user interface would have benefited from more polish and the controls, especially the shooting, are quite janky, but there are few combat sections and you get used to the quirks of the game relatively quickly, allowing you to enjoy the core of the gameplay, which consists on walking around and exploring some very atmospheric environments. The story itself is nothing special, but the game's visual quality and the great way it portraits the eerie, russian, post-apocalytic world it takes place in (it somewhat reminded me of S.T.A.L.K.E.R.) are enough to always make you want to see what comes next.
+The user interface would have benefited from more polish, the controls, especially the shooting, are quite janky and it's a bit short, but there are few combat sections and you get used to the quirks of the game relatively quickly, allowing you to enjoy the core of the gameplay, which consists on walking around and exploring some very atmospheric environments. The story itself is nothing special, but the game's visual quality and the great way it portraits the eerie, russian, post-apocalytic world it takes place in (it somewhat reminded me of S.T.A.L.K.E.R.) are enough to always make you want to see what comes next.
 </p>
 
 
