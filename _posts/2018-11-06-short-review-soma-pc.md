@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-A really well crafted experience: the visuals perfectly match the sci-fi setting and intriguing story and the sound design is top notch, full of ambient noises that add a lot of believability and often unsettle you while you are distracted looking around the remarkably designed levels, which many times reminded me of some of my favorite games like Doom 3 or Bioshock, a mix of technology and industrial, metallic parts with water and organic elements (I especially liked the sections where you have to move underwater, loved their murky and otherworldly atmosphere). 
+A really well crafted experience: the visuals perfectly match the sci-fi setting and intriguing story and the sound design is top notch, full of ambient noises that add a lot of believability and often unsettle you while you are distracted looking around the remarkably designed levels, which many times reminded me of some of my favorite game worlds like Doom 3 or Bioshock, a mix of technology and industrial, metallic parts with water and organic elements (I especially liked the sections where you have to move underwater, loved their murky and otherworldly atmosphere). 
 </p>
 
 <p>
