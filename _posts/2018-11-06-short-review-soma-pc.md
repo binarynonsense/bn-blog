@@ -10,7 +10,7 @@ A really well crafted experience: the visuals perfectly match the sci-fi setting
 </p>
 
 <p>
-The seamless way you can interact with many of the objects in the environments, even if it's just to throw or move some of them around, is very immersive, and there are some puzzles that give a little variety to the gameplay and some enemies you have to avoid (there's no combat at all), but not too many, just enough to add the right amount of tension to the exploration, which is the core of the game and my favorite part about it. An amazing game, engaging from start to end.
+The seamless way you can interact with many of the objects in the environments, even if it's just to throw or move some of them around, is very immersive, and there are some puzzles that give a little variety to the gameplay and some enemies you have to avoid (there's no combat at all), but not too many, just enough to add the right amount of tension to the exploration, which is what you spend most of the time doing (and my favorite part, examining every detail of its carefully design world has been great). An amazing game, engaging from start to end.
 </p>
 
 
