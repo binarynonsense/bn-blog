@@ -10,7 +10,7 @@ A really well crafted experience: the visuals perfectly match the sci-fi setting
 </p>
 
 <p>
-The seamless way you interact with the objects in the environments adds a lot to the immersiveness, and there are some puzzles to add a little variety to the gameplay and a few "monsters" you have to avoid, but not too many, just enough to add the right amount of tension to the exploration, which is the core of the game and my favorite part about it. An amazing game, engaging from start to end.
+The seamless way you interact with the objects in the environments adds a lot to the immersiveness, and there are some puzzles to give a little variety to the gameplay and a few "monsters" you have to avoid, but not too many, just enough to add the right amount of tension to the exploration, which is the core of the game and my favorite part about it. An amazing game, engaging from start to end.
 </p>
 
 
