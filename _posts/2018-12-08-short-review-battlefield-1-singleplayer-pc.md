@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-Sadly a little short, it took me no more than 6 hours to complete, but the new singleplayer campaign style used in Battlefield 1 is quite refreshing. Instead of focusing on one plot for the whole thing, as usual, this one is divided into a prologue and 5 shorter episodes, each one telling a different, unrelated story set during World War One, allowing for a wider range of situations and characters.
+Sadly a little short, it took me no more than 6 hours to complete, but the new singleplayer campaign style used in Battlefield 1 is quite refreshing. Instead of focusing on one plot for the whole thing, as usual, this one is divided into five shorter episodes (and a prologue), each one telling a different, unrelated story set during World War One, allowing for a wider range of situations and characters.
 </p>
 
 <p>
