@@ -10,7 +10,7 @@ If you know the type of games I like, it won't come as a surprise when I say tha
 </p>
 
 <p> 
-I'm sure it would have been an even more amazing experience at launch but, despite having played it a few years later, technically it's still a very impressive game. The map is huge and detailed and the visuals really hold up... it looks amazing. And, when it comes to the gameplay, there are a ton of mission and almost all of them are quite entertaining, especially the heists. I loved the bank robbery in GTA IV so, although most are not that intense, having more missions of that kind this time around was fantastic.
+I'm sure it would have been an even more amazing experience at launch but, despite having played it a few years later, technically it's still a very impressive game. The map is huge and detailed and the visuals really hold up... it looks great. And, when it comes to the gameplay, there are a ton of mission and almost all of them are quite entertaining, especially the heists. I loved the bank robbery in GTA IV so, although most are not that intense, having more missions of that kind this time around was fantastic.
 </p>
 
 <p>
