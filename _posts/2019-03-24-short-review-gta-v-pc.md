@@ -22,7 +22,7 @@ Probably the best game of its genre I've ever played.
 
 ![screenshot]({{ site.baseurl }}/images/posts/gtav_02.jpg)
 
-![screenshot]({{ site.baseurl }}/images/posts/gtav_02.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/gtav_03.jpg)
 
 
 <p>More info: <a href="https://en.wikipedia.org/wiki/Grand_Theft_Auto_V">https://en.wikipedia.org/wiki/Grand_Theft_Auto_V</a><p>
