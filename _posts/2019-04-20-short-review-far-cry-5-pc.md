@@ -14,7 +14,7 @@ The shooting mechanics are as solid as always and Hope County is a great looking
 </p>
 
 <p>
-On the not so great side of things is the story and most of the main story missions. Seems like a lost opportunity, the setting had a lot of potential but the end result is quite dull and uninspired. That said, the rest of the missions are usually quite enjoyable, similar to the ones in the other games, and there are enough to keep you busy for a good chunk of time. I also miss having to get specific animal skins to craft upgrades, now you just sell the skins to get money and there's a skill tree that uses perk points... it's a fine upgrade system, but makes hunting less vital.
+On the not so great side of things is the story and most of the main story missions. Seems like a lost opportunity, the setting had a lot of potential but the end result is quite dull and uninspired. That said, the rest of the missions are usually quite enjoyable, similar to the ones in the other games, and there are enough to keep you busy for a good chunk of time. Apart from that, I miss having to get specific animal skins to craft upgrades, now you just sell the skins to get money and there's a skill tree that uses perk points... it's a fine upgrade system, but makes hunting less vital.
 </p>
 
 
