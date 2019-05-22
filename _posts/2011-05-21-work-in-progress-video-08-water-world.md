@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "City Project - Work in progress video 08: "Water world""
+title: "City Project - Work in progress video 08: \"Water world\""
 categories:
 - gamedev
 - city-project

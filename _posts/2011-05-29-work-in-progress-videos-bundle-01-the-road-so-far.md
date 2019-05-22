@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "City Project - Work in progress videos bundle 01: "the road so far...""
+title: "City Project - Work in progress videos bundle 01: \"the road so far...\""
 categories:
 - gamedev
 - city-project
