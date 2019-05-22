@@ -1,6 +1,6 @@
 ---
 layout: post
-title: City Project - Work in progress video 05: Road tiles
+title: "City Project - Work in progress video 05: Road tiles"
 categories:
 - gamedev
 - city-project
