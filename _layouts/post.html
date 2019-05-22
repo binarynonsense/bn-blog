@@ -11,6 +11,6 @@ layout: default
 <div id="categories">
 <b>categories:</b>
 {% for category in page.categories %}
- <a href="{{site.url}}/categories/#{{ category }}">{{ category }}</a>{% unless forloop.last %},{% endunless %} 
+ <a href="{{site.url}}/categories/#{{ category }}" class="w3-text-light-grey">{{ category }}</a>{% unless forloop.last %},{% endunless %} 
 {% endfor %}
 </div>

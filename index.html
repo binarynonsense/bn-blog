@@ -13,7 +13,7 @@ title: Blog Posts
       {% endif %}
     {% endfor %}-->
     {% for post in site.posts %}
-      <li><span class="w3-opacity">{{ post.date | date_to_string }} &raquo; </span><a href="{{ site.baseurl }}{{ post.url }}" class="w3-text-light-grey">{{ post.title }}</a></li>
+      <li><span class="w3-opacity" style="font-family: 'Inconsolata';">{{ post.date | date_to_string }} &raquo; </span><a href="{{ site.baseurl }}{{ post.url }}" class="w3-text-light-grey">{{ post.title }}</a></li>
     {% endfor %}        
     </ul>
 </div>
