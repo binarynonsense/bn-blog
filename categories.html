@@ -22,7 +22,7 @@ title: Categories & Posts by Category
         <ul>
         {% for posts in category %}
         {% for post in posts %}
-            {% if post.url %}<li><span>{{ post.date | date_to_string }}</span><a href="{{ site.baseurl }}{{ post.url }}" class="w3-text-light-grey">{{ post.title }}</a></li>{% endif %}
+            {% if post.url %}<li><span class="w3-opacity" style="font-family: 'Inconsolata';">{{ post.date | date_to_string }} &raquo; </span><a href="{{ site.baseurl }}{{ post.url }}" class="w3-text-light-grey">{{ post.title }}</a></li>{% endif %}
         {% endfor %}
         {% endfor %}
         </ul>
