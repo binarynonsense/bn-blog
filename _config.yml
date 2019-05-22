@@ -1,0 +1,11 @@
+# General Jekyll Config
+highlighter: rouge
+url: http://blog.binarynonsense.com
+lsi: false
+exclude: [LICENSE, CNAME, README.md, .gitignore, Gemfile, Gemfile.lock]
+baseurl: http://blog.binarynonsense.com
+excerpt_separator: "<!-- more -->"
+timezone: Europe/Madrid
+
+# Permalinks
+permalink:        /:year/:month/:day/:title/
