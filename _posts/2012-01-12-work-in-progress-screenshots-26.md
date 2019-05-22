@@ -1,0 +1,11 @@
+---
+layout: post
+title: "City Project - Work in progress screenshots 26"
+categories:
+- gamedev
+- city-project
+---
+
+{::nomarkdown}
+Five new screenshots (click to enlarge):<br /><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-YkhdKYNCDiQ/Tw7asG6x-0I/AAAAAAAAAQQ/MFAHAs-SPUo/s1600/blog.binarynonsense.com_20120112_800_02.jpg"><img border="0" src="http://2.bp.blogspot.com/-nKezgaGairw/Tw7HN19fc4I/AAAAAAAAAPo/aF3kqe5DR4c/s1600/blog.binarynonsense.com_20120112_02.jpg" /></a><br /><br /><a href="http://4.bp.blogspot.com/-3HbEhil-znk/Tw7arqsDwoI/AAAAAAAAAQI/3HUbuH-G_Ao/s1600/blog.binarynonsense.com_20120112_800_01.jpg"><img border="0" src="http://3.bp.blogspot.com/-eNi74QBbVRg/Tw7HNCFeH4I/AAAAAAAAAPg/OnQWz_1ug-c/s1600/blog.binarynonsense.com_20120112_01.jpg" /></a></div><br /><a name="more"></a><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-vzCwU5TsndY/Tw7atZCJJyI/AAAAAAAAAQY/ulljHGnsD8I/s1600/blog.binarynonsense.com_20120112_800_03.jpg"><img border="0" src="http://3.bp.blogspot.com/-LfBqUqokUB0/Tw7HOmIYtwI/AAAAAAAAAPw/gFng0AkasBE/s1600/blog.binarynonsense.com_20120112_03.jpg" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://3.bp.blogspot.com/-PbcJutpzW6A/Tw7auuyaX5I/AAAAAAAAAQg/BOD5bJ0KYK0/s1600/blog.binarynonsense.com_20120112_800_04.jpg"><img border="0" src="http://1.bp.blogspot.com/-fYQ51xouC0M/Tw7HPdsIf7I/AAAAAAAAAP0/IZLaT-lDRBQ/s1600/blog.binarynonsense.com_20120112_04.jpg" /></a></div><br /><div class="separator" style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-ZNT8tFWmg_A/Tw7awvg-n3I/AAAAAAAAAQo/TywEN1v_RKs/s1600/blog.binarynonsense.com_20120112_800_05.jpg"><img border="0" src="http://1.bp.blogspot.com/-9IS0sJJsOcE/Tw7HP4lOSdI/AAAAAAAAAP8/ef4goQeDy1c/s1600/blog.binarynonsense.com_20120112_05.jpg" /></a></div>
+{:/nomarkdown}
