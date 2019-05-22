@@ -3,41 +3,32 @@ layout: default
 title: Categories & Posts by Category
 ---
 
-<p class="meta">
-  <a href="{{site.url}}">
-    <i class="home fa fa-home"></i>
-  </a>
-</p>
-
-<div id="home">
-  <h2><i class="fa fa-bookmark"></i> Categories:</h2>
-  
-  {% assign sorted_categories= (site.categories | sort:0) %}
-  
-  <ul id="blog-posts" class="posts">
-  {% for category in sorted_categories %}
-  <li>&raquo; <a href="#{{ category | first }}">{{ category | first }}</a></li>
-  {% endfor %}
-  </ul>
-  <br/>
+ <div id="home">
+    <h2>Categories:</h2>
+    {% assign sorted_categories= (site.categories | sort:0) %} 
+    <ul id="blog-posts" class="posts">
+        {% for category in sorted_categories %}
+        <li><a href="#{{ category | first }}" class="w3-text-light-grey">{{ category | first }}</a></li>
+        {% endfor %}
+    </ul>
+    <br/>
 </div>
 
 <div id="home">
-  <h2><i class="fa fa-bookmark"></i> Posts by Category:</h2>
-  
-  <ul id="blog-posts" class="posts">
-  {% for category in sorted_categories %}
-  <li><p>&raquo; <a name="{{ category | first }}"></a>{{ category | first }}:</p>
-    <ul>
-    {% for posts in category %}
-      {% for post in posts %}
-        {% if post.url %}<li><span>{{ post.date | date_to_string }} &raquo;</span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></li>{% endif %}
-      {% endfor %}
+  <h2>Posts by Category:</h2>  
+  <ul id="blog-posts" class="posts w3-large">
+    {% for category in sorted_categories %}
+    <li><p><a name="{{ category | first }}" class="w3-text-light-grey"></a>{{ category | first }}:</p>
+        <ul>
+        {% for posts in category %}
+        {% for post in posts %}
+            {% if post.url %}<li><span>{{ post.date | date_to_string }}</span><a href="{{ site.baseurl }}{{ post.url }}" class="w3-text-light-grey">{{ post.title }}</a></li>{% endif %}
+        {% endfor %}
+        {% endfor %}
+        </ul>
+    </li>
+    <br/>
     {% endfor %}
-    </ul>
-  </li>
-   <br/>
-  {% endfor %}
   </ul>
   <br/>
 </div>
