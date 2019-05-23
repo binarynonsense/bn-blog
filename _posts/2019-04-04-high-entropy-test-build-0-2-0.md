@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "High Entropy: Test Build 0.1.1 Now Available"
+title: "High Entropy: Test Build 0.2.0 Now Available"
 categories:
 - gamedev
 - high-entropy
