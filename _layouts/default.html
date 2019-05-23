@@ -90,12 +90,15 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
     .posts-list {
         text-align: left;
     }
-    .posts-list li {
-        display: block; 
-        width: 100%; 
-        white-space: nowrap; 
-        overflow: hidden; 
-        text-overflow: ellipsis;
+    
+    @media screen and (min-width: 600px) {
+        .posts-list li {
+            display: block; 
+            width: 100%; 
+            white-space: nowrap; 
+            overflow: hidden; 
+            text-overflow: ellipsis;
+        }
     }
 </style>
 <body class="w3-black">
