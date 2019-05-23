@@ -139,25 +139,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
 <!-- END PAGE CONTENT -->
 </div>
 
-<script>
-// resize youtube videos
-var $iframes = $( "iframe" );
-
-$iframes.each(function () {
-  $( this ).data( "ratio", this.height / this.width )
-    .removeAttr( "width" )
-    .removeAttr( "height" );
-});
-
-$( window ).resize( function () {
-  $iframes.each( function() {
-    var width = $( this ).parent().width();
-    $( this ).width( width )
-      .height( width * $( this ).data( "ratio" ) );
-  });
-}).resize();
-</script>
-
 <!-- Start of StatCounter Code for Default Guide -->
     <script type="text/javascript">
     var sc_project=6852570; 
