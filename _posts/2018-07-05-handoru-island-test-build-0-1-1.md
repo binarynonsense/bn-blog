@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Handoru Island: Test version 0.1.1 now available"
+title: "Handoru Island: Test Build 0.1.1 Now Available"
 categories:
 - gamedev
 - handoru-island
