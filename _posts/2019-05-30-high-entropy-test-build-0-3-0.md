@@ -6,7 +6,7 @@ categories:
 - high-entropy
 ---
 
-<p>With this update, all the planned content for the Test Build has now been added, with the included Challenges Mode consisting of a beginning, 15 levels, a default ending and a special ending if you finish with a 100% score in all levels. Hopefully, this will make this free version of "High Entropy" a fun stand-alone gaming experience in itself while it also serves as a way for people to help me test things out and as a demo. <br></p>
+<p>With this <a href="https://binarynonsense.itch.io/highentropy" target="_blank">update</a>, all the planned content for the Test Build has now been added, with the included Challenges Mode consisting of a beginning, 15 levels, a default ending and a special ending if you finish with a 100% score in all levels. Hopefully, this will make this free version of "High Entropy" a fun stand-alone gaming experience in itself while it also serves as a way for people to help me test things out and as a demo. <br></p>
 <p>I've tested it as much as I had time to, including completing all the levels with a 100% score through every path possible (I've designed most of the bigger levels to have multiple solutions), but given the amount of things I've added and changed for this update there's still a decent chance of bugs slipping through.  I'll try to keep updating the Test Build with bug fixes and level tweaks (feedback will be really helpful) but,&nbsp;from now on, most of my development time will be dedicated to working on the Story Mode for the commercial version of the game.</p>
 <p>Here are some screenshots and the changelog:</p>
 <p><img src="https://img.itch.zone/aW1nLzIxNTA5NzcuanBn/original/hxKcVw.jpg"><br></p>
