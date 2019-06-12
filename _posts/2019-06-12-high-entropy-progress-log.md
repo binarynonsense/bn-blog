@@ -10,7 +10,7 @@ categories:
 <div class="iframe-container">
 <iframe allowfullscreen src="//www.youtube.com/embed/9TVdVUOGn_Q"></iframe>
 </div>
-<p class="text-center" style="font-size: small;"><em>(Sorry about the glitchy audio, the original video sounds better<br>but youtube doesn't seem to like it)</em><br></p>
+<p style="font-size: small;text-align: center;"><em>(Sorry about the glitchy audio, the original video sounds better<br>but youtube doesn't seem to like it)</em><br></p>
 <p>... but not long after things start getting more interesting :)</p>
 <div class="iframe-container">
 <iframe allowfullscreen src="//www.youtube.com/embed/H79iWS0EmPQ"></iframe>
