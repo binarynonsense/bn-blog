@@ -16,5 +16,6 @@ categories:
 <iframe allowfullscreen src="//www.youtube.com/embed/H79iWS0EmPQ"></iframe>
 </div>
 <p>And, for those curious, here's a "behind the scenes" look at the first area in the editor:</p>
-<p><img src="https://img.itch.zone/aW1nLzIxODkzNjQuanBn/original/1j0eEu.jpg"><br></p>
+![screenshot]({{ site.baseurl }}/images/posts/he_20190612_1.jpg)
+
 
