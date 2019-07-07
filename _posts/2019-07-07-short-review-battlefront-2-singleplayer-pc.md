@@ -14,9 +14,9 @@ The core of the gameplay, the shooting, is basic but feels good, despite an enem
 </p>
 
 
-![screenshot]({{ site.baseurl }}/images/posts/battleffront2_01.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/battlefront2_01.jpg)
 
-![screenshot]({{ site.baseurl }}/images/posts/battleffront2_02.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/battlefront2_02.jpg)
 
 
 <p>More info: <a href="https://en.wikipedia.org/wiki/Star_Wars_Battlefront_II_(2017_video_game)">https://en.wikipedia.org/wiki/Star_Wars_Battlefront_II_(2017_video_game)</a><p>
