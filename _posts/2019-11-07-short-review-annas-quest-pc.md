@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-A charming point-and-click adventure with attractive cartoon-style art and animations and, for the most part, logical and entertaining puzzles. The story, although nothing too elaborate or original, was a little more intriguing and darker than I thought at first, making it varied enough to keep me interested.
+A charming point-and-click adventure with attractive cartoon-style art and animations and, for the most part, logical and entertaining puzzles. The story, although nothing too elaborate or original, was a little more intriguing and darker than I was expecting, making it interesting enough all the way through.
 </p>
 
 
