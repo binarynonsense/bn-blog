@@ -6,7 +6,7 @@ categories:
 - solitaire-project
 ---
 
-<p>I continued learning Godot Engine by working on my solitaire project. I've added some new features (like an undo button) and improved the visual design</p>
+<p>I continued learning <a href='https://godotengine.org/'>Godot</a> by working on my solitaire project. I've added some new features (like an undo button) and improved the visual design</p>
 <div class="iframe-container">
 <iframe allowfullscreen src="//www.youtube.com/embed/12V2LMOa0tA"></iframe>
 </div>
