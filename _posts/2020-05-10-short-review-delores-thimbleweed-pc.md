@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-A short, free, graphic adventure made by the creators of Thimbleweed Park to test their new engine. It has an unusual save system and no voice acting, but the end product is a perfectly crafted, little game with fun, logical puzzles and enough of the charm of the original to be totally worth playing.
+A short, free, graphic adventure made by the creators of Thimbleweed Park to test their new engine. It has a potentially annoying save system and no voice acting, but the end product is a perfectly crafted, little game with fun, logical puzzles and enough of the charm of the original to be totally worth playing.
 </p>
 
 
