@@ -15,4 +15,4 @@ A short, free, graphic adventure made by the creators of Thimbleweed Park to tes
 ![screenshot]({{ site.baseurl }}/images/posts/delores_02.jpg)
 
 
-<p>More info: <a href="https://store.steampowered.com/app/1305720/Delores_A_Thimbleweed_Park_MiniAdventure/">https://store.steampowered.com/app/1305720/Delores_A_Thimbleweed_Park_MiniAdventure/</a><p>
+<p>More info: <a href="https://store.steampowered.com/app/1305720/Delores_A_Thimbleweed_Park_MiniAdventure/">https://store.steampowered.com/app/1305720/</a><p>
