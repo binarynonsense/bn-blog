@@ -3,6 +3,7 @@ layout: post
 title: "ACBR Comic Book Reader: First Public Version Now Available"
 categories:
 - software
+- acbr
 ---
 
 <p>Version 1.0.0 of ACBR Comic Book Reader is now <a href="https://binarynonsense.itch.io/comic-book-reader">available to download</a>.</p>

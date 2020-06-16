@@ -3,6 +3,7 @@ layout: post
 title: "ACBR Comic Book Reader: Version 1.1.0 Now Available"
 categories:
 - software
+- acbr
 ---
 
 <div class="iframe-container">
