@@ -8,7 +8,7 @@ categories:
 
 <p>No more test builds, "High Entropy: Challenges" has now reached version 1.0 and is officially released. I've fixed a good number of bugs, polished the visuals a little, improved the menus... Here are some screenshots, the new trailer and the changelog:<br></p>
 <div class="iframe-container">
-<iframe allowfullscreen src="//www.youtube.com/embed/6-WaEcHfls"></iframe>
+<iframe allowfullscreen src="//www.youtube.com/embed/e6-WaEcHfls"></iframe>
 </div>
 <p><img src="https://img.itch.zone/aW1nLzM5MjcwNjAuanBn/original/26aHxt.jpg"><br></p>
 <p><img src="https://img.itch.zone/aW1nLzM5MjcwNjUuanBn/original/ZW5Ugr.jpg"><br></p>
