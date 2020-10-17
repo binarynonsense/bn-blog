@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-Finishing Syberia 3 left me with mixed feelings. It was nice to come back to the world of Kate Walker and the Yukols, with its weird inhabitants and strange but beautiful scenery, and there were enjoyable moments along the way... but the game was far from an ideal experience.
+Finishing Syberia 3 left me with mixed feelings. It was nice to come back to the world of Kate Walker and the Yukols, with its weird inhabitants and strange but beautiful places, and there were enjoyable moments along the way... but the game was far from an ideal experience.
 </p>
 <p>
 I quite liked the character designs, and the move to a full 3d environment was pretty faithful to the series style-wise, but the scenery looked, with some exceptions, a bit rough and uninspired, not as memorable as in the other games, which always was one of the highlights of <a href="http://blog.binarynonsense.com/2018/09/02/short-review-syberia-pc/">Syberia</a> for me. The puzzles were mostly decent, although there were a few annoying ones and too much backtracking, and the story was entertaining but fell short of my expectations, especially the ending, which felt a bit rushed and unsatisfying. 
