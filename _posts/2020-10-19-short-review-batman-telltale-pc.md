@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-I really liked most of the previous Walking Dead style games I've played but, at this point, to keep engaging me they need to include dialogue choices with meaningful consequences and have a good story and atmosphere so I forget that their core gameplay mechanics are not that great. It wasn't the case with this one.
+I really liked most of the previous Walking Dead style games I've played but, at this point, to keep me engaged they need to include dialogue choices with meaningful consequences and have a good story and atmosphere so I forget that their core gameplay mechanics are not that great. It wasn't the case with this one.
 </p>
 <p>
 Batman has been my favorite traditional superhero since I was a kid, so maybe it's harder to surprise me with another take on his world... the fact is this one's story didn't really hook me. I didn't dislike it, there were a few interesting moments and characters, and I quite liked some of the art design choices (the batsuit, for example) but it wasn't original or immersive enough to make me ignore the more lackluster aspects of Telltale's later games.
