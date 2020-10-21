@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-Once again, the Telltale formula seems to shine the most when applied to the Walking Dead world. Maybe this kind of postapocalyptic setting makes it easier to create stories, characters and situations that people can quickly relate to and also fit better with that type of gameplay... the thing is, unlike the Batman one I <a href='https://blog.binarynonsense.com/2020/10/19/short-review-batman-telltale-pc/'>played recently</a>, this game kept me absorbed thanks, in no small part, to its more meaningful and tense dialogue choices and a bunch of character I wanted to get to know further. 
+Once again, the Telltale formula seems to shine the most when applied to the Walking Dead world. Maybe this kind of postapocalyptic setting makes it easier to create stories, characters and situations that people can quickly relate to and also fit better with that type of gameplay... the thing is, unlike the Batman one I <a href='https://blog.binarynonsense.com/2020/10/19/short-review-batman-telltale-pc/'>played recently</a>, this game kept me absorbed thanks, in no small part, to its more meaningful and tense dialogue choices and a bunch of characters I wanted to get to know further. 
 </p>
 <p>
 The action sequences had some thrilling moments, thanks to a well thought out use of the quick time events and, although still a far cry from traditional point and click mechanics, the simplistic adventure sections added a little variety to the mix.
