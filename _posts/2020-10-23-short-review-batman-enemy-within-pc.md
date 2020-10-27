@@ -15,7 +15,7 @@ It ticked all the boxes in my list of things to make the Walking Dead formula wo
 Also, the combat sections were fun to not only watch but play this time around, the remarkable choreography and camera placement combined perfectly with the more restrained use of easy quick time events. They weren't overdone and helped create a variety of thrilling sequences which I never got bored or tired of.
 </p>
 <p>
-Graphically, I had mixed feelings. While maintaining the black ink touches and outlines, it pushed the main character models and materials a little further towards realism, which made for some attractive set pieces at times. The problem was that, maybe due to the engine's limitations, while a few of the characters looked great, there was often a high contrast in quality between them and some of the much lower detailed backgrounds and props, something the purer comic-book aesthetic of earlier Telltale games helped hide. That said, while imperfect, these changes gave the game a nice looking and maybe more unique atmosphere.
+Graphically, I had mixed feelings. While maintaining the black ink details, it pushed the main character models and materials a little further towards realism, which made for some attractive set pieces at times. The problem was that, maybe due to the engine's limitations, while a few of the characters looked great, there was often a high contrast in quality between them and some of the much lower detailed backgrounds and props, something the purer comic-book aesthetic of earlier Telltale games helped hide. That said, while imperfect, these changes gave the game a nice looking and maybe more unique atmosphere.
 </p>
 <p>
 Definitely worth playing if you like Batman and this subtype of adventure games.
