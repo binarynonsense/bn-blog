@@ -10,6 +10,7 @@ A very similar experience to the sequel, which I <a href='https://blog.binarynon
 </p>
 <p>
 I found its semi-abandoned, snowed version of New York an amazing environment for a game, an uncanny but gorgeous place to roam around and explore. It had an incredible amount of details and tons of atmosphere, with the snow and puddles, the day-night cycle and the weather changes creating some visual variety and random memorable moments that added much to the immersion: the beauty of the light during the first hours of the day, the eeriness of some areas at night, the snow storms reducing the visibility to just a few meters...
+</p>
 <p>
 I truly enjoyed its simple, yet addictive, looting and shooting mechanics, but the art design and stunning technology that made the city feel like a real place were probably what impressed me the most and made me eager to keep playing. 
 </p>
