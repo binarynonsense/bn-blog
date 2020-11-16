@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-As I was hoping, it was a very similar experience to the sequel, which I <a href='https://blog.binarynonsense.com/2020/04/12/short-review-division-2-pc/'>played some time ago</a>, so I had a lot of fun with this one too. Maybe even more.
+As I was hoping, it was a very similar to the sequel, which I <a href='https://blog.binarynonsense.com/2020/04/12/short-review-division-2-pc/'>played some time ago</a>, so I had a lot of fun with this one too. Maybe even more.
 </p>
 <p>
 I found its semi-abandoned, snowed version of New York an amazing environment for a game, an uncanny but gorgeous place to roam around and explore. It had an incredible amount of details and tons of atmosphere, with the snow and puddles, the day-night cycle and the weather changes creating some visual variety and random memorable moments that added much to the immersion: the beauty of the light during the first hours of the day, the eeriness of some areas at night, the snow storms reducing the visibility to just a few meters...
