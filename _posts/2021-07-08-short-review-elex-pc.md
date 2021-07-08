@@ -15,7 +15,7 @@ It was mostly the same as Gothic 3 when it came to its basic structure (type of 
 Combat was still a bit clunky but I always find the way your character progresses in these games extremely engaging: starting very weak, having to avoid fighting enemies while you do the safer quests to gain experience, and slowly getting better until you end up being able to tackle anything and take anyone head on. It really feels like a journey and makes you savor every little upgrade.
 </p>
 <p>
-I also enjoyed the story and characters quite more (Gothic 3 was a bit boring in that regard and non of the Risen series ones were that memorable), keeping me wanting to talk to everyone, visit all the interesting places around the map and know more about the lore until the end, leaving me wishing I hadn't finished it even after 60+ hours playing.
+I also enjoyed the story and characters quite more (Gothic 3 was a bit boring in that regard and none of the Risen series ones were that memorable), keeping me wanting to talk to everyone, visit all the interesting places around the map and know more about the lore until the end, leaving me wishing I hadn't finished it even after 60+ hours playing.
 </p>
 
 
