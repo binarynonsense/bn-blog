@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-Piranha Bytes' games have something special that make them some of my favorites. They build worlds I love to explore, beautiful and lovingly crafted, with a unique style of gameplay, and Elex was the best one I've played so far. 
+Piranha Bytes' games have something special that make them some of my favorites. They build worlds I love to explore, beautiful and carefully crafted, with a unique style of gameplay, and Elex was the best one I've played so far. 
 </p>
 <p>
 It was mostly the same as Gothic 3 when it came to its basic structure (type of areas, number of factions, RPG mechanics...) but continuing the improvements in visuals and polish from the Risen trilogy and this time in a post-apocalyptic setting, which was a plus for me as it's a kind of environment I truly like and a great excuse to mix the low tech architecture and weapons from previous games with new sci-fi elements. 
