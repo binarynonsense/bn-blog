@@ -19,8 +19,6 @@ The icing on the cake were the two expansions, the second one especially. Hearts
 </p>
 
 
-
-
 ![screenshot]({{ site.baseurl }}/images/posts/witcher3_01.jpg)
 
 ![screenshot]({{ site.baseurl }}/images/posts/witcher3_02.jpg)
