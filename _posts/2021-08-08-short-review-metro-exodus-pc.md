@@ -19,8 +19,6 @@ The art design was amazing, full of beautiful but very creepy at times environme
 
 ![screenshot]({{ site.baseurl }}/images/posts/metroexodus_01.jpg)
 
-![screenshot]({{ site.baseurl }}/images/posts/metroexodus_02.jpg)
-
 ![screenshot]({{ site.baseurl }}/images/posts/metroexodus_03.jpg)
 
 
