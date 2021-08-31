@@ -24,7 +24,7 @@ As good as I remembered, combined they made for a decently long and exciting sto
 
 ![screenshot]({{ site.baseurl }}/images/posts/metroredux_02.jpg)
 
-![screenshot]({{ site.baseurl }}/images/posts/metroredux_02.jpg)
+![screenshot]({{ site.baseurl }}/images/posts/metroredux_03.jpg)
 
 
 
