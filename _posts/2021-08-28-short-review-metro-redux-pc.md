@@ -18,14 +18,14 @@ Even nowadays, playing it years after its release, I was amazed by the second ga
 As good as I remembered, combined they made for a decently long and exciting story, elevated by its remarkably atmospheric and good looking setting. I loved coming back to these games.
 </p>
 
-<p>
+
 
 ![screenshot]({{ site.baseurl }}/images/posts/metroredux_01.jpg)
 
 ![screenshot]({{ site.baseurl }}/images/posts/metroredux_02.jpg)
 
 ![screenshot]({{ site.baseurl }}/images/posts/metroredux_02.jpg)
-</p>
+
 
 
 <p>More info: <a href="https://en.wikipedia.org/wiki/Metro_2033_(video_game)">https://en.wikipedia.org/wiki/Metro_2033_(video_game)</a> & <a href="https://en.wikipedia.org/wiki/Metro:_Last_Light">https://en.wikipedia.org/wiki/Metro:_Last_Light</a></p>
