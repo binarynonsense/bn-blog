@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-After a very promising start that made me think this one would be even better than <a href='https://blog.binarynonsense.com/2021/08/15/short-review-tomb-raider-pc/'>Tomb Raider (2013)</a>, with better graphics, a glimpse to a beautiful, snowed mountain and then a desert area, and very similar mechanics, tight platforming and type of action-adventure, movie style story... it went a bit downhill from then on. It still was pretty good, but some of the things that made me like the previous game so much were not as well done this time around.
+After a very promising start that made me think this one would be even better than <a href='https://blog.binarynonsense.com/2021/08/15/short-review-tomb-raider-pc/'>Tomb Raider (2013)</a>, with superior graphics, a glimpse to a beautiful, snowed mountain and then a desert area, and very similar mechanics, tight platforming and type of action-adventure, movie style story... it went a bit downhill from then on. It still was pretty good, but some of the things that made me like the previous game so much were not as well done this time around.
 </p>
 
 <p>
