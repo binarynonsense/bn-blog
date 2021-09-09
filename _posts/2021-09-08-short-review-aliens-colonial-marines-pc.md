@@ -15,7 +15,7 @@ It was a simple, linear shooter with subpar AI, especially your companion's (I d
 The music and sound effects were pretty authentic and the story was intriguing enough and well thought out, connecting it with the events of the films and taking you to many of the locations of the first two. It didn't feel out of place and was a good excuse to visit familiar places and make you come across elements from the movies, and that's the part I really liked about it. Visually it obviously wasn't as realistic and awe inspiring as the more recent <a href='https://blog.binarynonsense.com/2018/12/02/short-review-alien-isolation-pc/'>"Alien: Isolation"</a>, a game I loved in that regard, but it's clear a lot of care and fondness for the franchise was also put into recreating everything as faithfully as possible in this one. I think they nailed the apprehension and atmosphere of the settings despite the technology's limitations (I still find the less photo-real, somewhat pixelated art style and lighting of that time quite endearing, so that may help), and shooting aliens and Weyland-Yutani goons, while having a blast being able to take a closer look at so many iconic gadgets, structures and sites like Hadley's Hope, the Sulaco, the Derelict... never got old for me.
 </p>
 <p>
-PS: the Stasis Interrupted DLC was good way to extend the fun for a few more hours and tied some of the loose ends from the main story.
+PS: the Stasis Interrupted DLC was a good way to extend the fun for a few more hours and tied some of the loose ends from the main story.
 </p>
 
 
