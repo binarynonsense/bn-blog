@@ -13,6 +13,7 @@ The start was promising. Using the different suit modes to fight or avoid the Ko
 </p>
 <p>
 By contrast, its stand-alone expansion, Warhead, was a finer experience. Maybe I was just used to the way things worked by then, but I think it being shorter and more focused was the main reason the same elements seemed to fit nicer together. Also, the pace of the action was steadier and I found Psycho a more interesting character (Nomad was a fairly dull protagonist). In the end, playing his side of the story was more entertaining.
+</p>
 <p>
 Not as good as I expected but worth revisiting.
 </p>
