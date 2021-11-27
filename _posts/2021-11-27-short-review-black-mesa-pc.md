@@ -6,7 +6,7 @@ categories:
 ---
 
 <p>
-Coming back to a modernized version of one of my favorite game worlds was memorable, especially the first hours, as it was immediately clear that a lot of care was put into faithfully recreating the original using more modern technologies and ironing out some of the elements that hadn't aged that well without veering too far from the source material.
+Coming back to a modernized version of one of my favorite game worlds was memorable, especially the first hours, as it was immediately clear that a lot of care was put into faithfully recreating the original using more modern technologies and ironing out some of the elements that hadn't aged that well, without veering too far from the source material.
 </p>
 <p>
 As soon as I started the game and entered Black Mesa, it all had a familiar and welcoming feeling. As a fan of Half Life, everything was clearly recognizable visually but, at the same time, much better looking and the levels were similar but now often made more sense structurally. The layouts were still a bit nonsensical at times, but the facility now seemed more like a real place. I kept stopping every now and then just to enjoy seeing those well-known locations and characters with a fresh coat of paint.
