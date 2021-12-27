@@ -4,7 +4,7 @@ title: Categories & Posts by Category
 ---
 
 <div class="posts-list">
-  <h2>Categories:</h2>
+  <h2 class="w3-text-light-grey w3-left-align">Categories:</h2>
   {% assign sorted_categories= (site.categories | sort:0) %}
   <ul class="posts">
     {% for category in sorted_categories %}
@@ -16,7 +16,7 @@ title: Categories & Posts by Category
 </div>
 
 <div class="posts-list">
-  <h2>Posts by Category:</h2>
+  <h2 class="w3-text-light-grey w3-left-align">Posts by Category:</h2>
   <ul class="posts">
     {% for category in sorted_categories %}
     <li>
