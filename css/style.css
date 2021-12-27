@@ -128,7 +128,7 @@ ul a:hover {
 }
 #post a {
   text-decoration: none;
-  color: lightgrey;
+  color: #4f8c47;
 }
 #post a:hover {
   text-decoration: underline;
@@ -139,7 +139,7 @@ ul a:hover {
 }
 #categories a {
   text-decoration: none;
-  color: lightgrey;
+  color: #4f8c47;
 }
 #categories a:hover {
   text-decoration: underline;
@@ -158,7 +158,7 @@ ul a:hover {
 }
 .mylinks a {
   text-decoration: none;
-  color: lightgrey;
+  color: #4f8c47;
 }
 .mylinks a:hover {
   text-decoration: underline;
