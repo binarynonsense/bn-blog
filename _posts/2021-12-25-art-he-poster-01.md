@@ -3,6 +3,7 @@ layout: post
 title: "New Artwork: High Entropy - Poster #1"
 categories:
 - art
+- high-entropy
 ---
 
 <p>
