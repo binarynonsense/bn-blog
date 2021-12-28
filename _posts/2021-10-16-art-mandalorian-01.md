@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "The Mandalorian Fan Art"
+title: "New Artwork: The Mandalorian Fan Art"
 categories:
-- game-reviews
+- art
 ---
 
 <p>
