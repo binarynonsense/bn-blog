@@ -17,7 +17,7 @@ The idea is to have a hidden 'High Entropy Labs' (the fictional company from the
 </p>
 <p>
 <div class="iframe-container">
-<iframe allowfullscreen src="https://www.youtube.com/watch?v=WSyicxrxczY"></iframe>
+<iframe allowfullscreen src="//www.youtube.com/watch?v=WSyicxrxczY"></iframe>
 </div>
 </p>
 ![screenshot]({{ site.baseurl }}/images/posts/helos-desktop-demo-1-s1.jpg)
