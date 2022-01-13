@@ -2,7 +2,7 @@
 layout: post
 title: "HEL OS Remote Desktop Test/Demo #1"
 categories:
-- highentropy
+- high-entropy
 - webdesign
 ---
 
