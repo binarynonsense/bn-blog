@@ -11,7 +11,9 @@ A poster / potential new cover I painted for "High Entropy: Challenges", made in
 </p>
 
 
-![image](http://www.binarynonsense.com/imgs/art/full/alvaro-garcia-hec-poster-01-color-reducedforweb.jpg)
+<p>
+<img src="http://www.binarynonsense.com/imgs/art/full/alvaro-garcia-hec-poster-01-color-reducedforweb.jpg" class="tall-img" />
+</p>
 
 
 <p>My art portfolio: <a href="http://www.binarynonsense.com/art/">http://www.binarynonsense.com/art/</a></p>
