@@ -12,4 +12,16 @@ categories:
 </li><li>Added a tool to search and open audiobooks from Librivox.
 </li><li>Added a tool to search dictionary terms from Wiktionary.
 </li></ul>
+<p>[UPDATE] v2.4.1:<br></p>
+<ul><li>Updated the Russian localization (contributed by vanja-san)
+</li><li>Added a docs folder with English, Spanish and Russian README files.
+</li></ul>
+<p>[UPDATE] v2.4.2:
+    </p>
+<ul><li>Fixed tools failing to convert or extract some pdf files.
+</li></ul>
+<p>[UPDATE] v2.4.3:         </p>
+<ul><li>Added German to the available languages (translation contributed by  <a href="https://github.com/trzyglow" target="_blank" referrerpolicy="origin" rel="nofollow noopener">Timo Heidutzek (trzyglow)</a>).</li></ul><p>[UPDATE] v2.4.4:             </p>
+<ul><li>Fixed the conversion to epub format no longer working correctly due to a bug introduced in version 2.3.0.</li><li>Added some improvements to the German translation (contributed by  <a href="https://github.com/trzyglow" target="_blank" referrerpolicy="origin" rel="nofollow noopener">Timo Heidutzek (trzyglow)</a>).
+</li></ul>
 
