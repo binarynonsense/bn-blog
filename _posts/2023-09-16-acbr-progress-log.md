@@ -21,3 +21,7 @@ categories:
 <ul><li>Made all the contents of the tools' left panel stick to the top, not just the action buttons.
 </li><li>Made the info bubbles stackable.
 </li><li>Fixed the scrollbar moving with the arrow keys in the file browser and history tools.</li></ul>
+<p>[UPDATE] v3.3.2:</p>
+<ul><li>Fixed gamepad buttons being detected as pressed at the start in some circumstances and causing undesired input events.
+</li><li>Changed the gamepad mapping for "go to the first page" and "go to  the last page" from "Y" and "A" to "BACK + Y" and "BACK + A" as they  were too easy to press by accident.
+</li></ul>
