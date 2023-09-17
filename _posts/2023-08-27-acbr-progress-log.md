@@ -37,3 +37,25 @@ categories:
 <ul><li>Removed the ellipses from the menu entries that no longer open a  dialog or separate window for additional information, and from some that  were using them incorrectly.
 </li><li>Added context menus to all the tools.
 </li></ul>
+<p>[UPDATE] v3.2.5:</p>
+<p>Hotfix:
+ </p>
+<ul><li>Fixed a crash at initialization when no configuration file was found.
+</li></ul>
+<p>[UPDATE] v3.2.6:</p>
+<ul><li>Added Steam Deck and Gaming Mode detection so a better configuration  is now set by default when running in that mode on the Deck. Adding the  "--no-sandbox" command-line flag to the launch options is still needed  in Gaming Mode.
+</li><li>Fixed the development mode being incorrectly detected under some circumstances.
+</li><li>Fixed the image flickering while zooming in/out.
+</li><li>Fixed the image being duplicated some times when zooming quickly.
+</li><li>Fixed the reader's scrollbar moving to the top after coming back from a tool.</li></ul>
+<p>[UPDATE] v3.2.7:</p>
+<ul><li>Added a battery level indicator.
+</li><li>Simplified the reader's gamepad controls layout (will expand it in the future).
+</li><li>Fixed the delay between changing the page's image and resetting its position.</li></ul>
+<p>[UPDATE] v3.2.8:</p>
+<ul><li>Included the ability to drag and drop files into a tool so they are added to its input files list (if the tool has one).
+</li><li>Drag and dropping multiple files into the program's icon now  initializes the program with the "convert comics" tool open and those  files added to the input files list (dropping only one file opens that  file in the reader, as in previous versions).
+</li><li>Added command line arguments to directly open the provided file/s  with the reader or one of the tools, set some of that tool's options...  There's more info on <a href="https://github.com/binarynonsense/comic-book-reader/wiki">the wiki</a>.
+</li><li>Improved the keyboard and gamepad page scrolling smoothness.
+</li><li>Fixed the "show battery" menu entry not being disabled outside the reader.
+</li></ul>
