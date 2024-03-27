@@ -23,4 +23,4 @@ categories:
 </li><li>Fixed not being able to drag and drop input files into the extract tool like in similar tools.
 </li><li>Fixed malformed settings file not being handled properly.
 </li><li>Fixed last fullscreen state not being correctly saved in the settings some times.
-</li><li>Fixed the conversion tool's cancel button not working correctly under in some cases.</li></ul>
+</li><li>Fixed the conversion tool's cancel button not working correctly in some cases.</li></ul>
