@@ -33,108 +33,109 @@
   <link rel="stylesheet" href="{{site.url}}/css/style.css" />
 
   <body class="w3-black">
-    <div id="navbar">
-      <div class="topnav content" id="myTopnav">
-        <a href="http://www.binarynonsense.com" class="logo"
-          ><img src="{{site.url}}/imgs/logo.png" alt=""
-        /></a>
-        <a href="http://www.binarynonsense.com/#contact">contact</a>
-        <a href="http://blog.binarynonsense.com/">blog</a>
-        <a href="http://www.binarynonsense.com/projects">other</a>
-        <a href="http://www.binarynonsense.com/software">software</a>
-        <a href="http://www.binarynonsense.com/art">art</a>
-        <a href="http://www.binarynonsense.com/games">games</a>
-        <a href="javascript:void(0);" class="icon" onclick="myFunction()">
-          <i class="fa fa-bars"></i>
-        </a>
+    <main>
+      <div id="navbar">
+        <div class="topnav content" id="myTopnav">
+          <a href="http://www.binarynonsense.com" class="logo"
+            ><img src="{{site.url}}/imgs/logo.png" alt=""
+          /></a>
+          <a href="http://www.binarynonsense.com/#contact">contact</a>
+          <a href="http://blog.binarynonsense.com/">blog</a>
+          <a href="http://www.binarynonsense.com/projects">other</a>
+          <a href="http://www.binarynonsense.com/software">software</a>
+          <a href="http://www.binarynonsense.com/art">art</a>
+          <a href="http://www.binarynonsense.com/games">games</a>
+          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+          </a>
+        </div>
       </div>
-    </div>
-    <!-- Page Content -->
-    <div id="main">
-      <!-- Header -->
-      <div class="w3-content w3-justify w3-text-grey" id="about">
-        <div class="w3-container w3-cell w3-mobile">
-          <img
-            src="{{site.url}}/imgs/header_illustration_he.jpg"
-            class="w3-image"
-          />
-        </div>
-
-        <div class="w3-container w3-cell w3-cell-middle w3-mobile">
-          <img src="{{site.url}}/imgs/header_title_ag.jpg" class="w3-image" />
-          <h1
-            class="w3-text-light-grey w3-right-align"
-            style="padding-right: 20px"
-          >
-            BLOG
-          </h1>
-        </div>
-        <!-- Content -->
-        <div class="w3-row-padding w3-padding-16">
-          <div class="w3-col l9 m9 s12 w3-margin-bottom">
-            <!-- //////////////////////////////////////////////// -->
-            {{ content }}
-            <!-- //////////////////////////////////////////////// -->
+      <!-- Page Content -->
+      <div id="main">
+        <!-- Header -->
+        <div class="w3-content w3-justify w3-text-grey" id="about">
+          <div class="w3-container w3-cell w3-mobile">
+            <img
+              src="{{site.url}}/imgs/header_illustration_he.jpg"
+              class="w3-image"
+            />
           </div>
-          <div
-            class="w3-col l3 m3 s12 w3-margin-bottom w3-padding-large"
-            style="text-align: left"
-          >
-            <div id="sections" style="margin-top: 50px">
-              <p class="w3-margin-left w3-text-light-grey">posts:</p>
-              <ul>
-                <li>
-                  <a href="http://blog.binarynonsense.com">by date</a>
-                </li>
-                <li>
-                  <a href="http://blog.binarynonsense.com/categories/"
-                    >by category</a
-                  >
-                </li>
-                <li>
-                  <a href="http://blog.binarynonsense.com/feed.xml">feed</a>
-                </li>
-              </ul>
 
-              <!-- <hr class="w3-opacity" style="width:70%; margin-left:15% !important; margin-right:15% !important;" /> -->
-              <p class="w3-margin-left w3-text-light-grey">categories:</p>
-              <ul>
-                <li>
-                  <a href="http://blog.binarynonsense.com/categories/#art"
-                    >art</a
-                  >
-                </li>
-                <li>
-                  <a
-                    href="http://blog.binarynonsense.com/categories/#game-reviews"
-                    >game reviews</a
-                  >
-                </li>
-                <li>
-                  <a href="http://blog.binarynonsense.com/categories/#gamedev"
-                    >gamedev</a
-                  >
-                </li>
-                <li>
-                  <a
-                    href="http://blog.binarynonsense.com/categories/#high-entropy"
-                    >high entropy</a
-                  >
-                </li>
-                <li>
-                  <a
-                    href="http://blog.binarynonsense.com/categories/#handoru-island"
-                    >handoru island</a
-                  >
-                </li>
-                <li>
-                  <a href="http://blog.binarynonsense.com/categories/"
-                    >more...</a
-                  >
-                </li>
-              </ul>
+          <div class="w3-container w3-cell w3-cell-middle w3-mobile">
+            <img src="{{site.url}}/imgs/header_title_ag.jpg" class="w3-image" />
+            <h1
+              class="w3-text-light-grey w3-right-align"
+              style="padding-right: 20px"
+            >
+              BLOG
+            </h1>
+          </div>
+          <!-- Content -->
+          <div class="w3-row-padding w3-padding-16">
+            <div class="w3-col l9 m9 s12 w3-margin-bottom">
+              <!-- //////////////////////////////////////////////// -->
+              {{ content }}
+              <!-- //////////////////////////////////////////////// -->
+            </div>
+            <div
+              class="w3-col l3 m3 s12 w3-margin-bottom w3-padding-large"
+              style="text-align: left"
+            >
+              <div id="sections" style="margin-top: 50px">
+                <p class="w3-margin-left w3-text-light-grey">posts:</p>
+                <ul>
+                  <li>
+                    <a href="http://blog.binarynonsense.com">by date</a>
+                  </li>
+                  <li>
+                    <a href="http://blog.binarynonsense.com/categories/"
+                      >by category</a
+                    >
+                  </li>
+                  <li>
+                    <a href="http://blog.binarynonsense.com/feed.xml">feed</a>
+                  </li>
+                </ul>
 
-              <!-- <p class="w3-margin-left w3-text-light-grey">lists:</p>
+                <!-- <hr class="w3-opacity" style="width:70%; margin-left:15% !important; margin-right:15% !important;" /> -->
+                <p class="w3-margin-left w3-text-light-grey">categories:</p>
+                <ul>
+                  <li>
+                    <a href="http://blog.binarynonsense.com/categories/#art"
+                      >art</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="http://blog.binarynonsense.com/categories/#game-reviews"
+                      >game reviews</a
+                    >
+                  </li>
+                  <li>
+                    <a href="http://blog.binarynonsense.com/categories/#gamedev"
+                      >gamedev</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="http://blog.binarynonsense.com/categories/#high-entropy"
+                      >high entropy</a
+                    >
+                  </li>
+                  <li>
+                    <a
+                      href="http://blog.binarynonsense.com/categories/#handoru-island"
+                      >handoru island</a
+                    >
+                  </li>
+                  <li>
+                    <a href="http://blog.binarynonsense.com/categories/"
+                      >more...</a
+                    >
+                  </li>
+                </ul>
+
+                <!-- <p class="w3-margin-left w3-text-light-grey">lists:</p>
               <ul>
                 <li>
                   <a href="http://blog.binarynonsense.com/favorite-links/"
@@ -147,13 +148,13 @@
                   >
                 </li>
               </ul> -->
+              </div>
             </div>
           </div>
         </div>
+        <!-- END PAGE CONTENT -->
       </div>
-
-      <!-- END PAGE CONTENT -->
-    </div>
+    </main>
 
     <div id="footer">
       <div class="content" id="myTopnav">

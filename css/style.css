@@ -1,3 +1,9 @@
+body {
+  min-height: 100vh;
+  display: grid;
+  grid-template-rows: 1fr auto;
+}
+
 #navbar {
   background-color: #4f8c47;
 }
@@ -6,6 +12,7 @@
   background-color: #4f8c47;
   width: 100%;
   color: #f2f2f2;
+  margin-top: auto;
 }
 
 #footer a {
@@ -165,7 +172,7 @@ ul a:hover {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width:auto;
+  width: auto;
   max-width: 100%;
   max-height: 600px;
 }
