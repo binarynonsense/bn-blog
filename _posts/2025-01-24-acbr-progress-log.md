@@ -12,4 +12,4 @@ categories:
 </li><li>Removed an unused image quality slider from the 'Extract Pages' tool.
 </li><li>Made some small tweaks and visual changes to the user interface.
 </li><li>Updated some of the core libraries to newer versions.
-</li><li>Fixed the updates checker wrongly reporting the program's version as up to date in some situations (v3.9.0 had this bug and will not report v3.10.0 as newer).</li></ul>
+</li><li>Fixed the updates checker wrongly reporting the program's version as up to date in some situations (v3.8.0 to v3.9.0 had this bug and will not report v3.10.0 as newer).</li></ul>
