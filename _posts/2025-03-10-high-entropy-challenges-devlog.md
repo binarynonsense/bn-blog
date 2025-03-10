@@ -8,18 +8,6 @@ categories:
 
 <div>
   <span class="_16SknI_KfMn45zQAvi-Xrs"
-    ><span class="_3Mns5ZEBThi10kv9zwdCRr"
-      ><svg
-        fill="#FFFFFF"
-        xmlns="http://www.w3.org/2000/svg"
-        class="SVGIcon_Button SVGIcon_Popout"
-        viewBox="0 0 8 8"
-        x="0px"
-        y="0px"
-      >
-        <path
-          d="M0 0v8h8v-2h-1v1h-6v-6h1v-1h-2zm4 0l1.5 1.5-2.5 2.5 1 1 2.5-2.5 1.5 1.5v-4h-4z"
-        ></path></svg></span
     ><img
       src="https://clan.fastly.steamstatic.com/images//38478693/d5ba3399f9919b15a2a598222295739624d6fa58.jpg"
       class="undefined" /></span
@@ -34,18 +22,6 @@ categories:
   enough to the final result that I feel like I should share here some info and
   work in progress screenshots of what will, hopefully, one day become update
   1.3.<br /><br /><span class="_16SknI_KfMn45zQAvi-Xrs"
-    ><span class="_3Mns5ZEBThi10kv9zwdCRr"
-      ><svg
-        fill="#FFFFFF"
-        xmlns="http://www.w3.org/2000/svg"
-        class="SVGIcon_Button SVGIcon_Popout"
-        viewBox="0 0 8 8"
-        x="0px"
-        y="0px"
-      >
-        <path
-          d="M0 0v8h8v-2h-1v1h-6v-6h1v-1h-2zm4 0l1.5 1.5-2.5 2.5 1 1 2.5-2.5 1.5 1.5v-4h-4z"
-        ></path></svg></span
     ><img
       src="https://clan.fastly.steamstatic.com/images//38478693/c212a879840b90e8b3123aeb1c44d44b88d5c2fc.jpg"
       class="undefined" /></span
@@ -62,18 +38,6 @@ categories:
   HUD and other UIs design, fixing some small issues and bugs,
   improving/rewriting the tutorials and documents... <br /><br /><span
     class="_16SknI_KfMn45zQAvi-Xrs"
-    ><span class="_3Mns5ZEBThi10kv9zwdCRr"
-      ><svg
-        fill="#FFFFFF"
-        xmlns="http://www.w3.org/2000/svg"
-        class="SVGIcon_Button SVGIcon_Popout"
-        viewBox="0 0 8 8"
-        x="0px"
-        y="0px"
-      >
-        <path
-          d="M0 0v8h8v-2h-1v1h-6v-6h1v-1h-2zm4 0l1.5 1.5-2.5 2.5 1 1 2.5-2.5 1.5 1.5v-4h-4z"
-        ></path></svg></span
     ><img
       src="https://clan.fastly.steamstatic.com/images//38478693/b6adda9f95043511825a93d30aa712f713eb28e9.jpg"
       class="undefined" /></span
@@ -87,18 +51,6 @@ categories:
   when that'll be possible, as I still don't know if at any time I'll have to
   stop again for a while or how long will it take me to finish what’s left to do
   and test it all.<br /><br /><span class="_16SknI_KfMn45zQAvi-Xrs"
-    ><span class="_3Mns5ZEBThi10kv9zwdCRr"
-      ><svg
-        fill="#FFFFFF"
-        xmlns="http://www.w3.org/2000/svg"
-        class="SVGIcon_Button SVGIcon_Popout"
-        viewBox="0 0 8 8"
-        x="0px"
-        y="0px"
-      >
-        <path
-          d="M0 0v8h8v-2h-1v1h-6v-6h1v-1h-2zm4 0l1.5 1.5-2.5 2.5 1 1 2.5-2.5 1.5 1.5v-4h-4z"
-        ></path></svg></span
     ><img
       src="https://clan.fastly.steamstatic.com/images//38478693/21a420001186f1e398a81e4d1321a5da5feba42d.jpg"
       class="undefined" /></span
@@ -113,18 +65,6 @@ categories:
   to get into the rhythm of things, gain confidence, and later on restart really
   working on it. We’ll see what happens… First of all I need to finish this
   update :)<br /><br /><span class="_16SknI_KfMn45zQAvi-Xrs"
-    ><span class="_3Mns5ZEBThi10kv9zwdCRr"
-      ><svg
-        fill="#FFFFFF"
-        xmlns="http://www.w3.org/2000/svg"
-        class="SVGIcon_Button SVGIcon_Popout"
-        viewBox="0 0 8 8"
-        x="0px"
-        y="0px"
-      >
-        <path
-          d="M0 0v8h8v-2h-1v1h-6v-6h1v-1h-2zm4 0l1.5 1.5-2.5 2.5 1 1 2.5-2.5 1.5 1.5v-4h-4z"
-        ></path></svg></span
     ><img
       src="https://clan.fastly.steamstatic.com/images//38478693/ff3fd55cbd5456ac8638eaef661a9a5d093f9073.jpg"
       class="undefined" /></span
