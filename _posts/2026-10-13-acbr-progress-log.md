@@ -1,14 +1,5 @@
 ---
 layout: post
-title: "ACBR Comic Book Reader: Version 3.25.0 Now Available"
-categories:
-- software
-- acbr
----
-
-<p>Changelog:</p>
----
-layout: post
 title: "ACBR Comic Book Reader: Version 3.26.0 Now Available"
 categories:
 - software
